@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/25.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST2.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST3.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="31Xdd9aPgK6wvyRRfTYkFaP8b1t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.01.cpp (1).executor": "Run",
+    "C/C++ File.01.cpp.executor": "Run",
+    "C/C++ File.01c2.cpp.executor": "Run",
+    "C/C++ File.01c3.cpp.executor": "Run",
+    "C/C++ File.02.cpp (1).executor": "Run",
+    "C/C++ File.02.cpp.executor": "Run",
+    "C/C++ File.02c2.cpp.executor": "Run",
+    "C/C++ File.02c3.cpp.executor": "Run",
+    "C/C++ File.02phanturiengbiet.cpp.executor": "Run",
+    "C/C++ File.03.cpp (1).executor": "Run",
+    "C/C++ File.03.cpp.executor": "Run",
+    "C/C++ File.03c2.cpp.executor": "Run",
+    "C/C++ File.04.cpp (1).executor": "Run",
+    "C/C++ File.04.cpp.executor": "Run",
+    "C/C++ File.05.cpp.executor": "Run",
+    "C/C++ File.05c2.cpp.executor": "Run",
+    "C/C++ File.05c3.cpp.executor": "Run",
+    "C/C++ File.06.cpp.executor": "Run",
+    "C/C++ File.06c2.cpp.executor": "Run",
+    "C/C++ File.07.cpp.executor": "Run",
+    "C/C++ File.08.cpp.executor": "Run",
+    "C/C++ File.09.cpp.executor": "Run",
+    "C/C++ File.1.cpp.executor": "Run",
+    "C/C++ File.10.cpp.executor": "Run",
+    "C/C++ File.11.cpp.executor": "Run",
+    "C/C++ File.12.cpp.executor": "Debug",
+    "C/C++ File.13.cpp.executor": "Debug",
+    "C/C++ File.13c2.cpp.executor": "Debug",
+    "C/C++ File.14.cpp.executor": "Run",
+    "C/C++ File.15.cpp.executor": "Run",
+    "C/C++ File.16.cpp.executor": "Run",
+    "C/C++ File.17.cpp.executor": "Run",
+    "C/C++ File.18.cpp.executor": "Run",
+    "C/C++ File.19.cpp.executor": "Run",
+    "C/C++ File.20.cpp.executor": "Run",
+    "C/C++ File.21.cpp.executor": "Run",
+    "C/C++ File.22.cpp.executor": "Run",
+    "C/C++ File.23.cpp.executor": "Run",
+    "C/C++ File.24.cpp.executor": "Run",
+    "C/C++ File.25.cpp.executor": "Run",
+    "C/C++ File.26.cpp.executor": "Run",
+    "C/C++ File.27.cpp.executor": "Run",
+    "C/C++ File.28.cpp.executor": "Run",
+    "C/C++ File.29.cpp.executor": "Run",
+    "C/C++ File.30.cpp.executor": "Run",
+    "C/C++ File.31.cpp.executor": "Run",
+    "C/C++ File.32.cpp.executor": "Run",
+    "C/C++ File.BubbleSort.cpp.executor": "Run",
+    "C/C++ File.CTDL_001.cpp.executor": "Run",
+    "C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp.executor": "Run",
+    "C/C++ File.Cacchedolamviecvoifile.cpp.executor": "Run",
+    "C/C++ File.Capphatdong.cpp.executor": "Run",
+    "C/C++ File.ClassVaObject.cpp.executor": "Run",
+    "C/C++ File.Contro.cpp.executor": "Run",
+    "C/C++ File.ControvaObject.cpp.executor": "Run",
+    "C/C++ File.ControvaStruct.cpp.executor": "Run",
+    "C/C++ File.DSA03024.cpp.executor": "Run",
+    "C/C++ File.DSA06024.cpp.executor": "Run",
+    "C/C++ File.DSA09034.cpp.executor": "Run",
+    "C/C++ File.DSA9008.cpp.executor": "Debug",
+    "C/C++ File.DSA_P296.cpp.executor": "Run",
+    "C/C++ File.Demsocapnghichthetrongmang.cpp.executor": "Run",
+    "C/C++ File.Doisomacdinh.cpp.executor": "Run",
+    "C/C++ File.Forloop.cpp.executor": "Run",
+    "C/C++ File.Function.cpp.executor": "Run",
+    "C/C++ File.Hamban.cpp.executor": "Run",
+    "C/C++ File.InsertSort.cpp.executor": "Run",
+    "C/C++ File.InsertionSort.cpp.executor": "Run",
+    "C/C++ File.LamQuen.cpp.executor": "Debug",
+    "C/C++ File.LamviecvoifileText.cpp.executor": "Run",
+    "C/C++ File.Lopban.cpp.executor": "Run",
+    "C/C++ File.MERGESORT.cpp.executor": "Run",
+    "C/C++ File.Mang2chieu.cpp.executor": "Run",
+    "C/C++ File.MangCongDon.cpp.executor": "Run",
+    "C/C++ File.MangCongDon2Chieu.cpp.executor": "Run",
+    "C/C++ File.Map.cpp.executor": "Run",
+    "C/C++ File.Map_p2.cpp.executor": "Run",
+    "C/C++ File.MergeSort.cpp.executor": "Run",
+    "C/C++ File.Multimap.cpp.executor": "Run",
+    "C/C++ File.Napchongtoantu.cpp.executor": "Run",
+    "C/C++ File.Pair.cpp.executor": "Run",
+    "C/C++ File.QuickSort.cpp.executor": "Run",
+    "C/C++ File.SelectionSort.cpp.executor": "Run",
+    "C/C++ File.Set.cpp.executor": "Run",
+    "C/C++ File.Set_multiset_unorderedset.cpp.executor": "Run",
+    "C/C++ File.Struct.cpp.executor": "Run",
+    "C/C++ File.TEST.cpp.executor": "Run",
+    "C/C++ File.TEST2.cpp.executor": "Run",
+    "C/C++ File.TEST3.cpp.executor": "Run",
+    "C/C++ File.TH-Test (DFS  Tren do thi vo huong).cpp.executor": "Run",
+    "C/C++ File.TH01_02.cpp.executor": "Run",
+    "C/C++ File.TH_01_01.cpp.executor": "Run",
+    "C/C++ File.TH_01_03.cpp.executor": "Run",
+    "C/C++ File.TH_01_04.cpp.executor": "Run",
+    "C/C++ File.TH_01_05.cpp.executor": "Run",
+    "C/C++ File.TH_01_06.cpp.executor": "Run",
+    "C/C++ File.TichLonNhat.cpp.executor": "Run",
+    "C/C++ File.TimKiemNhiPhan.cpp.executor": "Run",
+    "C/C++ File.Tinhdahinh.cpp.executor": "Run",
+    "C/C++ File.Tinhdonggoi.cpp.executor": "Run",
+    "C/C++ File.Tinhkethua.cpp.executor": "Run",
+    "C/C++ File.Vector_va_Iterator.cpp.executor": "Run",
+    "C/C++ File.Vidu.cpp.executor": "Run",
+    "C/C++ File.ViduLopban.cpp.executor": "Run",
+    "C/C++ File.WhileLoop.cpp.executor": "Run",
+    "C/C++ File.XauKyTu.cpp.executor": "Run",
+    "C/C++ File.bieuthuctoanhoc.cpp.executor": "Run",
+    "C/C++ File.binary_searchc1.cpp.executor": "Run",
+    "C/C++ File.break.cpp.executor": "Run",
+    "C/C++ File.bubble_sort.cpp.executor": "Run",
+    "C/C++ File.bubble_sort_c2.cpp.executor": "Run",
+    "C/C++ File.casting.cpp.executor": "Run",
+    "C/C++ File.const.cpp.executor": "Run",
+    "C/C++ File.continue.cpp.executor": "Run",
+    "C/C++ File.dayconlientiepcotonglonnhat.cpp.executor": "Run",
+    "C/C++ File.dowhileloop.cpp.executor": "Run",
+    "C/C++ File.forloop.cpp.executor": "Run",
+    "C/C++ File.func1.cpp.executor": "Run",
+    "C/C++ File.func2giaithua.cpp.executor": "Run",
+    "C/C++ File.func3.cpp.executor": "Run",
+    "C/C++ File.giatrinhonhatcuabieuthuc.cpp.executor": "Run",
+    "C/C++ File.goto.cpp.executor": "Run",
+    "C/C++ File.hello_world.cpp.executor": "Run",
+    "C/C++ File.index.cpp.executor": "Run",
+    "C/C++ File.insertion_sort.cpp.executor": "Debug",
+    "C/C++ File.kiemtradaungoac.cpp.executor": "Run",
+    "C/C++ File.linearSearch.cpp.executor": "Run",
+    "C/C++ File.local_global.cpp.executor": "Run",
+    "C/C++ File.logical_operators.cpp.executor": "Run",
+    "C/C++ File.mang1chieu.cpp.executor": "Run",
+    "C/C++ File.mang2chieu.cpp.executor": "Run",
+    "C/C++ File.multiset_unorderedset.cpp.executor": "Run",
+    "C/C++ File.operators.cpp.executor": "Run",
+    "C/C++ File.quick_sort.cpp.executor": "Run",
+    "C/C++ File.relational_operators.cpp.executor": "Run",
+    "C/C++ File.sokhoilapphuong.cpp.executor": "Run",
+    "C/C++ File.stringMethod.cpp.executor": "Run",
+    "C/C++ File.tessttttt.cpp.executor": "Run",
+    "C/C++ File.test.cpp.executor": "Debug",
+    "C/C++ File.test2.cpp.executor": "Run",
+    "C/C++ File.thutunguyento.cpp.executor": "Run",
+    "C/C++ File.timkiemnhiphan.cpp.executor": "Run",
+    "C/C++ File.trochoivoicacconso.cpp.executor": "Run",
+    "C/C++ File.unorderedset.cpp.executor": "Run",
+    "C/C++ File.var_input_output.cpp.executor": "Run",
+    "C/C++ File.whileloop.cpp.executor": "Run",
+    "C/C++ File.xoanoc.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)\DSACodePTIT" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang1Chieu" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)\Lamviecvoifile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\0. study_material\C Plus Plus (C++)\BAITAPTRENLOP" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)\28TechDSA" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)" />
+      <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp">
+    <configuration name="CacThuatToanThongDungTrongThuVienAlgorithm.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="CacThuatToanThongDungTrongThuVienAlgorithm.cpp" CONFIG_NAME="CacThuatToanThongDungTrongThuVienAlgorithm.cpp">
+      <option name="sourceFile" value="28Tech\CacThuatToanThongDungTrongThuVienAlgorithm.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DSA09034.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DSA09034.cpp" CONFIG_NAME="DSA09034.cpp">
+      <option name="sourceFile" value="DSACodePTIT\DSA09034.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DSA9008.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DSA9008.cpp" CONFIG_NAME="DSA9008.cpp">
+      <option name="sourceFile" value="DSACodePTIT\DSA9008.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="QuickSort.cpp" CONFIG_NAME="QuickSort.cpp">
+      <option name="sourceFile" value="28Tech\QuickSort.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
+      <option name="sourceFile" value="hello_world.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tessttttt.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="tessttttt.cpp" CONFIG_NAME="tessttttt.cpp">
+      <option name="sourceFile" value="F8\tessttttt.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp" />
+        <item itemvalue="C/C++ File.QuickSort.cpp" />
+        <item itemvalue="C/C++ File.DSA09034.cpp" />
+        <item itemvalue="C/C++ File.DSA9008.cpp" />
+        <item itemvalue="C/C++ File.tessttttt.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="" />
+      <created>1755674436344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755674436344</updated>
+      <workItem from="1755674437978" duration="489000" />
+      <workItem from="1755675086367" duration="277000" />
+      <workItem from="1755675590159" duration="15379000" />
+      <workItem from="1755736303281" duration="75000" />
+      <workItem from="1755758452697" duration="9693000" />
+      <workItem from="1755918656129" duration="8244000" />
+      <workItem from="1755966948228" duration="1222000" />
+      <workItem from="1756000410936" duration="23817000" />
+      <workItem from="1756195944739" duration="7239000" />
+      <workItem from="1756262594915" duration="32301000" />
+      <workItem from="1756315935696" duration="1410000" />
+      <workItem from="1756339648470" duration="3898000" />
+      <workItem from="1756374061060" duration="14642000" />
+      <workItem from="1756518841277" duration="7689000" />
+      <workItem from="1756606178623" duration="7180000" />
+      <workItem from="1756896696203" duration="194000" />
+      <workItem from="1756897907431" duration="3408000" />
+      <workItem from="1756946000228" duration="4534000" />
+      <workItem from="1756962183715" duration="623000" />
+      <workItem from="1757160920219" duration="21355000" />
+      <workItem from="1757348409879" duration="1999000" />
+      <workItem from="1757431561265" duration="6939000" />
+      <workItem from="1757522405760" duration="1022000" />
+      <workItem from="1757552809194" duration="3540000" />
+      <workItem from="1757584613634" duration="20773000" />
+      <workItem from="1757692662228" duration="4042000" />
+      <workItem from="1757858876024" duration="9044000" />
+      <workItem from="1758111280029" duration="10526000" />
+      <workItem from="1758214788607" duration="1625000" />
+      <workItem from="1758302643979" duration="14376000" />
+      <workItem from="1758418197104" duration="33446000" />
+      <workItem from="1758550029722" duration="1407000" />
+      <workItem from="1758645582898" duration="7911000" />
+      <workItem from="1758760242015" duration="7777000" />
+      <workItem from="1758814528004" duration="11595000" />
+      <workItem from="1758903966780" duration="158000" />
+      <workItem from="1758904179488" duration="8392000" />
+      <workItem from="1758935621769" duration="30905000" />
+      <workItem from="1759214983547" duration="3732000" />
+      <workItem from="1759226582531" duration="10062000" />
+      <workItem from="1759253239817" duration="706000" />
+      <workItem from="1759298913912" duration="20121000" />
+      <workItem from="1759334803084" duration="8317000" />
+      <workItem from="1759365350573" duration="2873000" />
+      <workItem from="1759373767780" duration="4356000" />
+      <workItem from="1759390666922" duration="14027000" />
+      <workItem from="1759489880763" duration="8197000" />
+      <workItem from="1759574882934" duration="6336000" />
+      <workItem from="1759595783818" duration="3512000" />
+      <workItem from="1759744167592" duration="9231000" />
+      <workItem from="1759763010244" duration="5318000" />
+      <workItem from="1759800511194" duration="1961000" />
+      <workItem from="1759851511533" duration="8494000" />
+      <workItem from="1759892091713" duration="1483000" />
+      <workItem from="1759908359129" duration="16144000" />
+      <workItem from="1759970766410" duration="7886000" />
+      <workItem from="1760022429182" duration="8229000" />
+      <workItem from="1760114536673" duration="2207000" />
+      <workItem from="1760188180068" duration="1469000" />
+      <workItem from="1760282165075" duration="4921000" />
+      <workItem from="1760434626370" duration="10404000" />
+      <workItem from="1760519961102" duration="12678000" />
+      <workItem from="1760836435851" duration="2516000" />
+      <workItem from="1761122259834" duration="6795000" />
+      <workItem from="1761181921392" duration="8798000" />
+      <workItem from="1761470808206" duration="1254000" />
+      <workItem from="1761581667359" duration="1633000" />
+      <workItem from="1761647814035" duration="4608000" />
+      <workItem from="1761718326623" duration="12453000" />
+      <workItem from="1761785548524" duration="6582000" />
+      <workItem from="1761893455596" duration="359000" />
+      <workItem from="1762181112830" duration="4982000" />
+      <workItem from="1762437781930" duration="7045000" />
+      <workItem from="1762526364065" duration="1510000" />
+      <workItem from="1762527893459" duration="17020000" />
+      <workItem from="1762655403612" duration="31904000" />
+      <workItem from="1762781938397" duration="12719000" />
+      <workItem from="1762835934378" duration="18175000" />
+      <workItem from="1762873732034" duration="7758000" />
+      <workItem from="1762910551029" duration="3014000" />
+      <workItem from="1762937558715" duration="3968000" />
+      <workItem from="1762959070411" duration="8831000" />
+      <workItem from="1762968033317" duration="4224000" />
+      <workItem from="1762996793819" duration="7392000" />
+      <workItem from="1763268963395" duration="1437000" />
+      <workItem from="1763367516412" duration="1927000" />
+      <workItem from="1764055293061" duration="5636000" />
+      <workItem from="1764071391964" duration="7730000" />
+      <workItem from="1764322245061" duration="7720000" />
+      <workItem from="1764380148630" duration="14636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Mang/ThuchanhMang2chieu/04.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Mang/ThuchanhMang2chieu/04.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/LamQuen.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/LamQuen.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/ToantuIfelseSwitchcase/08.cpp</url>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/05c2.cpp</url>
+          <line>14</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/05c2.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/05c2.cpp</url>
+          <line>15</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/05c2.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/05c2.cpp</url>
+          <line>21</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/05c2.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/TH_DSA/TH_01_02.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/TH_DSA/TH_01_02.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/TH_DSA/TH_01_02.cpp</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/TH_DSA/TH_01_02.cpp</url>
+          <line>4</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/13c2.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/13c2.cpp</url>
+          <line>28</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/13c2.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/13c2.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang1Chieu/13c2.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/03c2.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/03c2.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/03c2.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/03c2.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/04.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/04.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/04.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/04.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/04.cpp</url>
+          <line>4</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/15.cpp</url>
+          <line>24</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/16.cpp</url>
+          <line>71</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/16.cpp</url>
+          <line>64</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/16.cpp</url>
+          <line>67</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28TechDSA/Buoi1/BaiTap/01.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28TechDSA/Buoi1/BaiTap/01.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28TechDSA/Buoi1/BaiTap/01.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/bubble_sort.cpp</url>
+          <line>14</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/bubble_sort.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/bubble_sort.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/bubble_sort.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/binary_searchc1.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/binary_searchc1.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/binary_searchc1.cpp</url>
+          <line>6</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/binary_searchc1.cpp</url>
+          <line>4</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/binary_searchc1.cpp</url>
+          <line>5</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BAITAPTRENLOP/TEST2.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/TH_DSA/TH2/MERGESORT.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/insertion_sort.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/26.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/26.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/BubbleSort.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/BubbleSort.cpp</url>
+          <line>14</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/InsertionSort.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/InsertionSort.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/InsertionSort.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/InsertionSort.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/MergeSort.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/MergeSort.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/MergeSort.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/MergeSort.cpp</url>
+          <line>70</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DSACodePTIT/DSA_P296.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/QuickSort_Lomuto.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/QuickSort_Lomuto.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/QuickSort_Lomuto.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/QuickSort_Lomuto.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CppFileRunConfiguration">
+        <watch expression="tmpArr[1][2]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
