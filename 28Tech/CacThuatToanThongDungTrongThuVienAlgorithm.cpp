@@ -170,8 +170,14 @@ int main() {
   // ======= set_union, set_intersection, set_difference,
   // set_symmetric_difference  ======
 
-  int arr13[5] = {1, 2, 3, 4, 5};
-  int arr14[5] = {1, 3, 4, 5, 6};
+  int arr13[] = {1, 2, 3, 4, 5};
+  int arr14[] = {1, 3, 4, 5, 6, 7};
+
+  vector<int> arr15(11);
+
+  auto itf = set_union(arr13, arr13 + 5, arr14, arr14 + 6, arr15.begin());
+
+  arr15.resize(it - arr15.begin());
 
   return 0;
 }
