@@ -19,7 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/10_lomutoPartition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/11_Merge.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +150,7 @@
     "C/C++ File.10_QickSort_Lomuto.cpp.executor": "Run",
     "C/C++ File.10_lomutoPartition.cpp.executor": "Run",
     "C/C++ File.11.cpp.executor": "Run",
+    "C/C++ File.11_Merge.cpp.executor": "Run",
     "C/C++ File.12.cpp.executor": "Debug",
     "C/C++ File.13.cpp.executor": "Debug",
     "C/C++ File.13c2.cpp.executor": "Debug",
@@ -310,13 +312,7 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.10_lomutoPartition.cpp">
-    <configuration name="09_DemSoLanXuatHienTrongMangSapXep.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="09_DemSoLanXuatHienTrongMangSapXep.cpp" CONFIG_NAME="09_DemSoLanXuatHienTrongMangSapXep.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\09_DemSoLanXuatHienTrongMangSapXep.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.11_Merge.cpp">
     <configuration name="09c2_DemSoLanXuatHienTrongMangSapXep.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="09c2_DemSoLanXuatHienTrongMangSapXep.cpp" CONFIG_NAME="09c2_DemSoLanXuatHienTrongMangSapXep.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\09c2_DemSoLanXuatHienTrongMangSapXep.cpp" />
       <method v="2">
@@ -341,6 +337,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="11_Merge.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="11_Merge.cpp" CONFIG_NAME="11_Merge.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\11_Merge.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
       <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
@@ -349,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.11_Merge.cpp" />
         <item itemvalue="C/C++ File.10_lomutoPartition.cpp" />
         <item itemvalue="C/C++ File.10C2_QickSort_Hoare.cpp" />
         <item itemvalue="C/C++ File.10_QickSort_Lomuto.cpp" />
         <item itemvalue="C/C++ File.09c2_DemSoLanXuatHienTrongMangSapXep.cpp" />
-        <item itemvalue="C/C++ File.09_DemSoLanXuatHienTrongMangSapXep.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +458,7 @@
       <workItem from="1764380148630" duration="16641000" />
       <workItem from="1765504875610" duration="11999000" />
       <workItem from="1765590886953" duration="5431000" />
-      <workItem from="1765613931621" duration="14957000" />
+      <workItem from="1765613931621" duration="17788000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -791,16 +793,6 @@
           <url>file://$PROJECT_DIR$/28Tech/QuickSort_Lomuto.cpp</url>
           <line>33</line>
           <option name="timeStamp" value="171" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/10_lomutoPartition.cpp</url>
-          <line>35</line>
-          <option name="timeStamp" value="173" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/10_lomutoPartition.cpp</url>
-          <line>32</line>
-          <option name="timeStamp" value="174" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
