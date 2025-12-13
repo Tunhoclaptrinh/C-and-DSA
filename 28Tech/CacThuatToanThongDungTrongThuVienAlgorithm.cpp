@@ -156,13 +156,14 @@ int main() {
   // thứ tự các tham đối số
   // vị trí bắt đầu mảng a, vị trí kết thúc mảng a, vị trí bắt đầu mảng b, vị
   // trí kết thúc mảng b, vị trí bắt đầu mảng c
-  merge(arr10.begin(), arr10.end(), arr11.begin(), arr11.end(), arr12.begin());
+  merge(arr10.begin(), arr10.end(), arr11.begin(), arr11.end(),
+        arr12.begin()); // => tăng dần
 
   for (int x : arr12)
     cout << x << ' ';
   cout << endl;
 
-  reverse(arr12.begin(), arr12.end());
+  reverse(arr12.begin(), arr12.end()); // lật ngược mảng
   for (int x : arr12)
     cout << x << ' ';
   cout << endl;
@@ -170,14 +171,17 @@ int main() {
   // ======= set_union, set_intersection, set_difference,
   // set_symmetric_difference  ======
 
+  // hợp, giao, trừ (khác), trừ giao
+
+  // phải sort trước khi set_
   int arr13[] = {1, 2, 3, 4, 5};
   int arr14[] = {1, 3, 4, 5, 6, 7};
 
   vector<int> arr15(11);
 
-  auto itf = set_union(arr13, arr13 + 5, arr14, arr14 + 6, arr15.begin());
+  auto it3 = set_union(arr13, arr13 + 5, arr14, arr14 + 6, arr15.begin());
 
-  arr15.resize(it - arr15.begin());
+  arr15.resize(it3 - arr15.begin());
 
   return 0;
 }
