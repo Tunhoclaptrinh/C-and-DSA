@@ -18,9 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="23_CapSoTongBangK">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/24_CapCoTongNhoHonK.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/25_CapCoTongLonHonK.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -427,6 +426,7 @@
     "C/C++ File.25.cpp.executor": "Run",
     "C/C++ File.25_CapCoTongLonHonK.cpp.executor": "Run",
     "C/C++ File.26.cpp.executor": "Run",
+    "C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp.executor": "Run",
     "C/C++ File.27.cpp.executor": "Run",
     "C/C++ File.28.cpp.executor": "Run",
     "C/C++ File.29.cpp.executor": "Run",
@@ -572,13 +572,7 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.24_CapCoTongNhoHonK.cpp">
-    <configuration name="23c2_CapSoTongBangK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="23c2_CapSoTongBangK.cpp" CONFIG_NAME="23c2_CapSoTongBangK.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\23c2_CapSoTongBangK.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp">
     <configuration name="23c3_CapSoTongBangK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="23c3_CapSoTongBangK.cpp" CONFIG_NAME="23c3_CapSoTongBangK.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\23c3_CapSoTongBangK.cpp" />
       <method v="2">
@@ -603,6 +597,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" CONFIG_NAME="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
       <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
@@ -611,11 +611,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" />
         <item itemvalue="C/C++ File.24_CapCoTongNhoHonK.cpp" />
         <item itemvalue="C/C++ File.23c4_CapSoTongBangK.cpp" />
         <item itemvalue="C/C++ File.25_CapCoTongLonHonK.cpp" />
         <item itemvalue="C/C++ File.23c3_CapSoTongBangK.cpp" />
-        <item itemvalue="C/C++ File.23c2_CapSoTongBangK.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -719,7 +719,7 @@
       <workItem from="1765504875610" duration="11999000" />
       <workItem from="1765590886953" duration="5431000" />
       <workItem from="1765613931621" duration="27975000" />
-      <workItem from="1765674890534" duration="28458000" />
+      <workItem from="1765674890534" duration="29451000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -801,7 +801,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765723837078</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK">
+      <option name="closed" value="true" />
+      <created>1765728849746</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765728849746</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -818,7 +826,8 @@
     <MESSAGE value="21_InTheoKhuonMau" />
     <MESSAGE value="22_CountinSort" />
     <MESSAGE value="23_CapSoTongBangK" />
-    <option name="LAST_COMMIT_MESSAGE" value="23_CapSoTongBangK" />
+    <MESSAGE value="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK" />
+    <option name="LAST_COMMIT_MESSAGE" value="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
