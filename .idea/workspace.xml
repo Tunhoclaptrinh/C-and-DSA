@@ -18,9 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="20_CasiLeRo">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/21_InTheoKhuonMau.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/21c2_InTheoKhuonMau.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="21_InTheoKhuonMau">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/22_CountinSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/22c2_CountinSort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/22c3_CountinSort.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,90 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -227,8 +312,12 @@
     "C/C++ File.20_CasiLeRo.cpp.executor": "Run",
     "C/C++ File.21.cpp.executor": "Run",
     "C/C++ File.21_InTheoKhuonMau.cpp.executor": "Run",
+    "C/C++ File.21_InTheoKhuonMau_clean.cpp.executor": "Run",
     "C/C++ File.21c2_InTheoKhuonMau.cpp.executor": "Run",
     "C/C++ File.22.cpp.executor": "Run",
+    "C/C++ File.22_CountinSort.cpp.executor": "Run",
+    "C/C++ File.22c2_CountinSort.cpp.executor": "Run",
+    "C/C++ File.22c3_CountinSort.cpp.executor": "Debug",
     "C/C++ File.23.cpp.executor": "Run",
     "C/C++ File.24.cpp.executor": "Run",
     "C/C++ File.25.cpp.executor": "Run",
@@ -378,33 +467,33 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.21_InTheoKhuonMau_clean.cpp">
-    <configuration name="19_ACMICPC_2014_Problems-A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="19_ACMICPC_2014_Problems-A.cpp" CONFIG_NAME="19_ACMICPC_2014_Problems-A.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\19_ACMICPC_2014_Problems-A.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="20_CasiLeRo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="20_CasiLeRo.cpp" CONFIG_NAME="20_CasiLeRo.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\20_CasiLeRo.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.22c3_CountinSort.cpp">
     <configuration name="21_InTheoKhuonMau_clean.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="21_InTheoKhuonMau_clean.cpp" CONFIG_NAME="21_InTheoKhuonMau_clean.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\21_InTheoKhuonMau_clean.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="21_InTheoKhuonMau.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="21_InTheoKhuonMau.cpp" CONFIG_NAME="21_InTheoKhuonMau.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\21_InTheoKhuonMau.cpp" />
+    <configuration name="21c2_InTheoKhuonMau.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="21c2_InTheoKhuonMau.cpp" CONFIG_NAME="21c2_InTheoKhuonMau.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\21c2_InTheoKhuonMau.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="21c2_InTheoKhuonMau.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="21c2_InTheoKhuonMau.cpp" CONFIG_NAME="21c2_InTheoKhuonMau.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\21c2_InTheoKhuonMau.cpp" />
+    <configuration name="22_CountinSort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="22_CountinSort.cpp" CONFIG_NAME="22_CountinSort.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\22_CountinSort.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="22c2_CountinSort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="22c2_CountinSort.cpp" CONFIG_NAME="22c2_CountinSort.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\22c2_CountinSort.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="22c3_CountinSort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="22c3_CountinSort.cpp" CONFIG_NAME="22c3_CountinSort.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\22c3_CountinSort.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -417,11 +506,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.22c3_CountinSort.cpp" />
+        <item itemvalue="C/C++ File.22c2_CountinSort.cpp" />
+        <item itemvalue="C/C++ File.22_CountinSort.cpp" />
         <item itemvalue="C/C++ File.21_InTheoKhuonMau_clean.cpp" />
         <item itemvalue="C/C++ File.21c2_InTheoKhuonMau.cpp" />
-        <item itemvalue="C/C++ File.21_InTheoKhuonMau.cpp" />
-        <item itemvalue="C/C++ File.20_CasiLeRo.cpp" />
-        <item itemvalue="C/C++ File.19_ACMICPC_2014_Problems-A.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +614,7 @@
       <workItem from="1765504875610" duration="11999000" />
       <workItem from="1765590886953" duration="5431000" />
       <workItem from="1765613931621" duration="27975000" />
-      <workItem from="1765674890534" duration="15401000" />
+      <workItem from="1765674890534" duration="17110000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -583,7 +672,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765699428623</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="21_InTheoKhuonMau">
+      <option name="closed" value="true" />
+      <created>1765703793591</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765703793591</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +694,8 @@
     <MESSAGE value="18_InsertionSort" />
     <MESSAGE value="19_ACMICPC_2014_Problems-A" />
     <MESSAGE value="20_CasiLeRo" />
-    <option name="LAST_COMMIT_MESSAGE" value="20_CasiLeRo" />
+    <MESSAGE value="21_InTheoKhuonMau" />
+    <option name="LAST_COMMIT_MESSAGE" value="21_InTheoKhuonMau" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -915,6 +1013,16 @@
           <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/14_NhaGanNhat.cpp</url>
           <line>8</line>
           <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/22c3_CountinSort.cpp</url>
+          <line>15</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/22c3_CountinSort.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="184" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
