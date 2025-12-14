@@ -49,7 +49,7 @@ int main() {
     quickSort(a, 0, n - 1);
     quickSort(b, 0, m - 1);
 
-    int tich = a[n - 1] * b[0];
+    long long tich = a[n - 1] * b[0];
 
     cout << tich << endl;
   }

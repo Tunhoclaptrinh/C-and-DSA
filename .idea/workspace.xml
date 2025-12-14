@@ -18,9 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="26_TichCuaSoLonNhatMang1VaNhoNhatMang2">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -719,7 +719,7 @@
       <workItem from="1765504875610" duration="11999000" />
       <workItem from="1765590886953" duration="5431000" />
       <workItem from="1765613931621" duration="27975000" />
-      <workItem from="1765674890534" duration="29451000" />
+      <workItem from="1765674890534" duration="29750000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -809,7 +809,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765728849746</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="26_TichCuaSoLonNhatMang1VaNhoNhatMang2">
+      <option name="closed" value="true" />
+      <created>1765729875501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765729875501</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -827,7 +835,8 @@
     <MESSAGE value="22_CountinSort" />
     <MESSAGE value="23_CapSoTongBangK" />
     <MESSAGE value="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK" />
-    <option name="LAST_COMMIT_MESSAGE" value="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK" />
+    <MESSAGE value="26_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
+    <option name="LAST_COMMIT_MESSAGE" value="26_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
