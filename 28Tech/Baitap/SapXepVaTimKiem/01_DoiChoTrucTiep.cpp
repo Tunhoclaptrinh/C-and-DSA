@@ -11,7 +11,7 @@ void printArray(int arr[], int n) {
 }
 
 void selectionSort(int arr[], int n) {
-  for (int i = 0; i < n; i++) {
+  for (int i = 0; i < n - 1; i++) {
     int minIdx = i;
     for (int j = i + 1; j < n; j++) {
       if (arr[j] < arr[minIdx]) {
@@ -20,25 +20,25 @@ void selectionSort(int arr[], int n) {
     }
     if (minIdx != i) {
       swap(arr[i], arr[minIdx]);
-      cout << "Buoc " << cnt << ":" << endl;
-      printArray(arr, n);
-      cnt++;
     }
+    cout << "Buoc " << i + 1 << ": ";
+    printArray(arr, n);
+    cnt++;
   }
 }
 
 // đổi chỗ trực tiếp
 void sort(int arr[], int n) {
-  for (int i = 0; i < n; i++) {
+  for (int i = 0; i < n - 1; i++) {
     int idx = i;
     for (int j = i + 1; j < n; j++) {
       if (arr[idx] > arr[j]) {
         swap(arr[idx], arr[j]);
-        cout << "Buoc " << cnt << ":" << endl;
-        printArray(arr, n);
-        cnt++;
       }
     }
+    cout << "Buoc " << cnt << ": ";
+    printArray(arr, n);
+    cnt++;
   }
 }
 
@@ -49,8 +49,8 @@ int main() {
   for (int i = 0; i < n; i++)
     cin >> arr[i];
 
-  // selectionSort(arr, n);
-  sort(arr, n);
+  selectionSort(arr, n);
+  // sort(arr, n);
 
   return 0;
 }
