@@ -18,9 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="26_TichCuaSoLonNhatMang1VaNhoNhatMang2">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/27_HopNhatHaiMang.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/27c2_HopNhatHaiMang.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,78 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -427,7 +500,10 @@
     "C/C++ File.25_CapCoTongLonHonK.cpp.executor": "Run",
     "C/C++ File.26.cpp.executor": "Run",
     "C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp.executor": "Run",
+    "C/C++ File.26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp.executor": "Run",
     "C/C++ File.27.cpp.executor": "Run",
+    "C/C++ File.27_HopNhatHaiMang.cpp.executor": "Run",
+    "C/C++ File.27c2_HopNhatHaiMang.cpp.executor": "Run",
     "C/C++ File.28.cpp.executor": "Run",
     "C/C++ File.29.cpp.executor": "Run",
     "C/C++ File.30.cpp.executor": "Run",
@@ -572,33 +648,33 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp">
-    <configuration name="23c3_CapSoTongBangK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="23c3_CapSoTongBangK.cpp" CONFIG_NAME="23c3_CapSoTongBangK.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\23c3_CapSoTongBangK.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="23c4_CapSoTongBangK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="23c4_CapSoTongBangK.cpp" CONFIG_NAME="23c4_CapSoTongBangK.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\23c4_CapSoTongBangK.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.27c2_HopNhatHaiMang.cpp">
     <configuration name="24_CapCoTongNhoHonK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="24_CapCoTongNhoHonK.cpp" CONFIG_NAME="24_CapCoTongNhoHonK.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\24_CapCoTongNhoHonK.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="25_CapCoTongLonHonK.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="25_CapCoTongLonHonK.cpp" CONFIG_NAME="25_CapCoTongLonHonK.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\25_CapCoTongLonHonK.cpp" />
+    <configuration name="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" CONFIG_NAME="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" CONFIG_NAME="26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" />
+    <configuration name="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" CONFIG_NAME="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="27_HopNhatHaiMang.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="27_HopNhatHaiMang.cpp" CONFIG_NAME="27_HopNhatHaiMang.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\27_HopNhatHaiMang.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="27c2_HopNhatHaiMang.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="27c2_HopNhatHaiMang.cpp" CONFIG_NAME="27c2_HopNhatHaiMang.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\27c2_HopNhatHaiMang.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -611,11 +687,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.27c2_HopNhatHaiMang.cpp" />
+        <item itemvalue="C/C++ File.27_HopNhatHaiMang.cpp" />
+        <item itemvalue="C/C++ File.26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" />
         <item itemvalue="C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp" />
         <item itemvalue="C/C++ File.24_CapCoTongNhoHonK.cpp" />
-        <item itemvalue="C/C++ File.23c4_CapSoTongBangK.cpp" />
-        <item itemvalue="C/C++ File.25_CapCoTongLonHonK.cpp" />
-        <item itemvalue="C/C++ File.23c3_CapSoTongBangK.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -719,7 +795,7 @@
       <workItem from="1765504875610" duration="11999000" />
       <workItem from="1765590886953" duration="5431000" />
       <workItem from="1765613931621" duration="27975000" />
-      <workItem from="1765674890534" duration="29750000" />
+      <workItem from="1765674890534" duration="32889000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -817,7 +893,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765729875501</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2">
+      <option name="closed" value="true" />
+      <created>1765730095524</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765730095524</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -836,7 +920,8 @@
     <MESSAGE value="23_CapSoTongBangK" />
     <MESSAGE value="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK" />
     <MESSAGE value="26_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
-    <option name="LAST_COMMIT_MESSAGE" value="26_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
+    <MESSAGE value="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
+    <option name="LAST_COMMIT_MESSAGE" value="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
