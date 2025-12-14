@@ -18,10 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/16_VatSuaBo.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="fix 01_DoiChoTrucTiep">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/18_InsertionSort.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/02_SelectionSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/02_SelectionSort.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,8 +148,12 @@
     "C/C++ File.15_XepGach.cpp.executor": "Run",
     "C/C++ File.16.cpp.executor": "Run",
     "C/C++ File.16_VatSuaBo.cpp.executor": "Run",
+    "C/C++ File.16c2_VatSuaBo.cpp.executor": "Run",
     "C/C++ File.17.cpp.executor": "Run",
+    "C/C++ File.17_DoiCho.cpp.executor": "Run",
+    "C/C++ File.17c2_DoiCho.cpp.executor": "Run",
     "C/C++ File.18.cpp.executor": "Run",
+    "C/C++ File.18_InsertionSort.cpp.executor": "Run",
     "C/C++ File.19.cpp.executor": "Run",
     "C/C++ File.20.cpp.executor": "Run",
     "C/C++ File.21.cpp.executor": "Run",
@@ -304,33 +307,33 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.16c2_VatSuaBo.cpp">
-    <configuration name="02_SelectionSort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="02_SelectionSort.cpp" CONFIG_NAME="02_SelectionSort.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\02_SelectionSort.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="14_NhaGanNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="14_NhaGanNhat.cpp" CONFIG_NAME="14_NhaGanNhat.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\14_NhaGanNhat.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="15_XepGach.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="15_XepGach.cpp" CONFIG_NAME="15_XepGach.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\15_XepGach.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="16_VatSuaBo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="16_VatSuaBo.cpp" CONFIG_NAME="16_VatSuaBo.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\16_VatSuaBo.cpp" />
+  <component name="RunManager" selected="C/C++ File.18_InsertionSort.cpp">
+    <configuration name="01_DoiChoTrucTiep.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="01_DoiChoTrucTiep.cpp" CONFIG_NAME="01_DoiChoTrucTiep.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\01_DoiChoTrucTiep.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="16c2_VatSuaBo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="16c2_VatSuaBo.cpp" CONFIG_NAME="16c2_VatSuaBo.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\16c2_VatSuaBo.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="17_DoiCho.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="17_DoiCho.cpp" CONFIG_NAME="17_DoiCho.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\17_DoiCho.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="17c2_DoiCho.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="17c2_DoiCho.cpp" CONFIG_NAME="17c2_DoiCho.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\17c2_DoiCho.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="18_InsertionSort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="18_InsertionSort.cpp" CONFIG_NAME="18_InsertionSort.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\18_InsertionSort.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -343,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.18_InsertionSort.cpp" />
+        <item itemvalue="C/C++ File.17c2_DoiCho.cpp" />
+        <item itemvalue="C/C++ File.01_DoiChoTrucTiep.cpp" />
+        <item itemvalue="C/C++ File.17_DoiCho.cpp" />
         <item itemvalue="C/C++ File.16c2_VatSuaBo.cpp" />
-        <item itemvalue="C/C++ File.02_SelectionSort.cpp" />
-        <item itemvalue="C/C++ File.16_VatSuaBo.cpp" />
-        <item itemvalue="C/C++ File.15_XepGach.cpp" />
-        <item itemvalue="C/C++ File.14_NhaGanNhat.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +454,7 @@
       <workItem from="1765504875610" duration="11999000" />
       <workItem from="1765590886953" duration="5431000" />
       <workItem from="1765613931621" duration="27975000" />
-      <workItem from="1765674890534" duration="3707000" />
+      <workItem from="1765674890534" duration="8088000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -469,7 +472,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765635013867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="17_DoiCho">
+      <option name="closed" value="true" />
+      <created>1765684407168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765684407169</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix 01_DoiChoTrucTiep">
+      <option name="closed" value="true" />
+      <created>1765684424585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765684424585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,7 +497,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10 ex" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="17_DoiCho" />
+    <MESSAGE value="fix 01_DoiChoTrucTiep" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix 01_DoiChoTrucTiep" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -796,16 +817,6 @@
           <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/14_NhaGanNhat.cpp</url>
           <line>8</line>
           <option name="timeStamp" value="176" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/16_VatSuaBo.cpp</url>
-          <line>41</line>
-          <option name="timeStamp" value="177" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/16_VatSuaBo.cpp</url>
-          <line>40</line>
-          <option name="timeStamp" value="178" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
