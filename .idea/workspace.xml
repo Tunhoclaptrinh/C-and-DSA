@@ -18,10 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="34_DemCapX^YLonHonY^X">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/35_GiaoCuaBaDaySo.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="35_GiaoCuaBaDaySo">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/36_SapXepChanLe.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/34c3_DemCapX^YLonHonY^X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/34c3_DemCapX^YLonHonY^X.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,6 +236,7 @@
     "C/C++ File.33c2_DoiChoItNhat.cpp.executor": "Debug",
     "C/C++ File.34_DemCapX^YLonHonY^X.cpp.executor": "Run",
     "C/C++ File.35_GiaoCuaBaDaySo.cpp.executor": "Run",
+    "C/C++ File.36_SapXepChanLe.cpp.executor": "Run",
     "C/C++ File.BubbleSort.cpp.executor": "Run",
     "C/C++ File.CTDL_001.cpp.executor": "Run",
     "C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp.executor": "Run",
@@ -376,13 +376,7 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.35_GiaoCuaBaDaySo.cpp">
-    <configuration name="32_2c2_SapXepTheoTanSuat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="32_2c2_SapXepTheoTanSuat.cpp" CONFIG_NAME="32_2c2_SapXepTheoTanSuat.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\32_2c2_SapXepTheoTanSuat.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.36_SapXepChanLe.cpp">
     <configuration name="33_DoiChoItNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="33_DoiChoItNhat.cpp" CONFIG_NAME="33_DoiChoItNhat.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\33_DoiChoItNhat.cpp" />
       <method v="2">
@@ -407,6 +401,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="36_SapXepChanLe.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="36_SapXepChanLe.cpp" CONFIG_NAME="36_SapXepChanLe.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\36_SapXepChanLe.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
       <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
@@ -415,11 +415,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.36_SapXepChanLe.cpp" />
         <item itemvalue="C/C++ File.35_GiaoCuaBaDaySo.cpp" />
         <item itemvalue="C/C++ File.34_DemCapX^YLonHonY^X.cpp" />
         <item itemvalue="C/C++ File.33c2_DoiChoItNhat.cpp" />
         <item itemvalue="C/C++ File.33_DoiChoItNhat.cpp" />
-        <item itemvalue="C/C++ File.32_2c2_SapXepTheoTanSuat.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +525,7 @@
       <workItem from="1765613931621" duration="27975000" />
       <workItem from="1765674890534" duration="35287000" />
       <workItem from="1765763105564" duration="9343000" />
-      <workItem from="1765775003608" duration="22017000" />
+      <workItem from="1765775003608" duration="23530000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -703,7 +703,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765817440481</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="35_GiaoCuaBaDaySo">
+      <option name="closed" value="true" />
+      <created>1765820626199</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765820626199</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -732,7 +740,8 @@
     <MESSAGE value="32_1_SapXepChuSo, 32_2_SapXepTheoTanSuat" />
     <MESSAGE value="33_DoiChoItNhat" />
     <MESSAGE value="34_DemCapX^YLonHonY^X" />
-    <option name="LAST_COMMIT_MESSAGE" value="34_DemCapX^YLonHonY^X" />
+    <MESSAGE value="35_GiaoCuaBaDaySo" />
+    <option name="LAST_COMMIT_MESSAGE" value="35_GiaoCuaBaDaySo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
