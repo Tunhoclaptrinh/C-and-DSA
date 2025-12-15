@@ -18,8 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="29_SapXepTheoGiaTriTuyetDoi">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/30_HopGiaoCuaHaiMang.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="30_HopGiaoCuaHaiMang">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/31_SapXepLaiDayCon.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,6 +197,26 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/25.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST2.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -213,225 +233,226 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.01.cpp (1).executor": "Run",
-    "C/C++ File.01.cpp.executor": "Run",
-    "C/C++ File.01_DoiChoTrucTiep.cpp.executor": "Run",
-    "C/C++ File.01c2.cpp.executor": "Run",
-    "C/C++ File.01c3.cpp.executor": "Run",
-    "C/C++ File.02.cpp (1).executor": "Run",
-    "C/C++ File.02.cpp.executor": "Run",
-    "C/C++ File.02_SelectionSort.cpp.executor": "Run",
-    "C/C++ File.02c2.cpp.executor": "Run",
-    "C/C++ File.02c3.cpp.executor": "Run",
-    "C/C++ File.02phanturiengbiet.cpp.executor": "Run",
-    "C/C++ File.03.cpp (1).executor": "Run",
-    "C/C++ File.03.cpp.executor": "Run",
-    "C/C++ File.03_InsertionSort.cpp.executor": "Run",
-    "C/C++ File.03c2.cpp.executor": "Run",
-    "C/C++ File.04.cpp (1).executor": "Run",
-    "C/C++ File.04.cpp.executor": "Run",
-    "C/C++ File.04_BubbleSort.cpp.executor": "Run",
-    "C/C++ File.05.cpp.executor": "Run",
-    "C/C++ File.05_LinearSearch.cpp.executor": "Run",
-    "C/C++ File.05c2.cpp.executor": "Run",
-    "C/C++ File.05c3.cpp.executor": "Run",
-    "C/C++ File.06.cpp.executor": "Run",
-    "C/C++ File.06_BinarySearch.cpp.executor": "Run",
-    "C/C++ File.06c2.cpp.executor": "Run",
-    "C/C++ File.07.cpp.executor": "Run",
-    "C/C++ File.07_ViTriDauTien.cpp.executor": "Run",
-    "C/C++ File.08.cpp.executor": "Run",
-    "C/C++ File.08_ViTriCuoiCung.cpp.executor": "Run",
-    "C/C++ File.09.cpp.executor": "Run",
-    "C/C++ File.09_DemSoLanXuatHienTrongMangSapXep.cpp.executor": "Run",
-    "C/C++ File.09c2_DemSoLanXuatHienTrongMangSapXep.cpp.executor": "Run",
-    "C/C++ File.1.cpp.executor": "Run",
-    "C/C++ File.10.cpp.executor": "Run",
-    "C/C++ File.10C2_QickSort_Hoare.cpp.executor": "Run",
-    "C/C++ File.10_QickSort_Lomuto.cpp.executor": "Run",
-    "C/C++ File.10_lomutoPartition.cpp.executor": "Run",
-    "C/C++ File.11.cpp.executor": "Run",
-    "C/C++ File.11_Merge.cpp.executor": "Run",
-    "C/C++ File.12.cpp.executor": "Debug",
-    "C/C++ File.13.cpp.executor": "Debug",
-    "C/C++ File.13_KhieuVu.cpp.executor": "Run",
-    "C/C++ File.13c2.cpp.executor": "Debug",
-    "C/C++ File.14.cpp.executor": "Run",
-    "C/C++ File.14_NhaGanNhat.cpp.executor": "Run",
-    "C/C++ File.15.cpp.executor": "Run",
-    "C/C++ File.15_XepGach.cpp.executor": "Run",
-    "C/C++ File.16.cpp.executor": "Run",
-    "C/C++ File.16_VatSuaBo.cpp.executor": "Run",
-    "C/C++ File.16c2_VatSuaBo.cpp.executor": "Run",
-    "C/C++ File.17.cpp.executor": "Run",
-    "C/C++ File.17_DoiCho.cpp.executor": "Run",
-    "C/C++ File.17c2_DoiCho.cpp.executor": "Run",
-    "C/C++ File.18.cpp.executor": "Run",
-    "C/C++ File.18_InsertionSort.cpp.executor": "Run",
-    "C/C++ File.19.cpp.executor": "Run",
-    "C/C++ File.19_ACMICPC_2014_Problems-A.cpp.executor": "Run",
-    "C/C++ File.20.cpp.executor": "Run",
-    "C/C++ File.20_CasiLeRo.cpp.executor": "Run",
-    "C/C++ File.21.cpp.executor": "Run",
-    "C/C++ File.21_InTheoKhuonMau.cpp.executor": "Run",
-    "C/C++ File.21_InTheoKhuonMau_clean.cpp.executor": "Run",
-    "C/C++ File.21c2_InTheoKhuonMau.cpp.executor": "Run",
-    "C/C++ File.22.cpp.executor": "Run",
-    "C/C++ File.22_CountinSort.cpp.executor": "Run",
-    "C/C++ File.22c2_CountinSort.cpp.executor": "Run",
-    "C/C++ File.22c3_CountinSort.cpp.executor": "Debug",
-    "C/C++ File.23.cpp.executor": "Run",
-    "C/C++ File.23_CapSoTongBangK.cpp.executor": "Run",
-    "C/C++ File.23c2_CapSoTongBangK.cpp.executor": "Run",
-    "C/C++ File.23c3_CapSoTongBangK.cpp.executor": "Run",
-    "C/C++ File.23c4_CapSoTongBangK.cpp.executor": "Run",
-    "C/C++ File.24.cpp.executor": "Run",
-    "C/C++ File.24_CapCoTongNhoHonK.cpp.executor": "Run",
-    "C/C++ File.25.cpp.executor": "Run",
-    "C/C++ File.25_CapCoTongLonHonK.cpp.executor": "Run",
-    "C/C++ File.26.cpp.executor": "Run",
-    "C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp.executor": "Run",
-    "C/C++ File.26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp.executor": "Run",
-    "C/C++ File.27.cpp.executor": "Run",
-    "C/C++ File.27_HopNhatHaiMang.cpp.executor": "Run",
-    "C/C++ File.27c2_HopNhatHaiMang.cpp.executor": "Run",
-    "C/C++ File.28.cpp.executor": "Run",
-    "C/C++ File.28_DienSoConThieu.cpp.executor": "Run",
-    "C/C++ File.28c2_DienSoConThieu.cpp.executor": "Run",
-    "C/C++ File.28c3_DienSoConThieu.cpp.executor": "Run",
-    "C/C++ File.29.cpp.executor": "Run",
-    "C/C++ File.29_SapXepTheoGiaTriTuyetDoi.cpp.executor": "Run",
-    "C/C++ File.29c2_SapXepTheoGiaTriTuyetDoi.cpp.executor": "Run",
-    "C/C++ File.29c3_SapXepTheoGiaTriTuyetDoi.cpp.executor": "Run",
-    "C/C++ File.30.cpp.executor": "Run",
-    "C/C++ File.30_HopGiaoCuaHaiMang.cpp.executor": "Run",
-    "C/C++ File.31.cpp.executor": "Run",
-    "C/C++ File.32.cpp.executor": "Run",
-    "C/C++ File.BubbleSort.cpp.executor": "Run",
-    "C/C++ File.CTDL_001.cpp.executor": "Run",
-    "C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp.executor": "Run",
-    "C/C++ File.Cacchedolamviecvoifile.cpp.executor": "Run",
-    "C/C++ File.Capphatdong.cpp.executor": "Run",
-    "C/C++ File.ClassVaObject.cpp.executor": "Run",
-    "C/C++ File.Contro.cpp.executor": "Run",
-    "C/C++ File.ControvaObject.cpp.executor": "Run",
-    "C/C++ File.ControvaStruct.cpp.executor": "Run",
-    "C/C++ File.DSA03024.cpp.executor": "Run",
-    "C/C++ File.DSA06024.cpp.executor": "Run",
-    "C/C++ File.DSA09034.cpp.executor": "Run",
-    "C/C++ File.DSA9008.cpp.executor": "Debug",
-    "C/C++ File.DSA_P296.cpp.executor": "Run",
-    "C/C++ File.Demsocapnghichthetrongmang.cpp.executor": "Run",
-    "C/C++ File.Doisomacdinh.cpp.executor": "Run",
-    "C/C++ File.Forloop.cpp.executor": "Run",
-    "C/C++ File.Function.cpp.executor": "Run",
-    "C/C++ File.Hamban.cpp.executor": "Run",
-    "C/C++ File.InsertSort.cpp.executor": "Run",
-    "C/C++ File.InsertionSort.cpp.executor": "Run",
-    "C/C++ File.LamQuen.cpp.executor": "Debug",
-    "C/C++ File.LamviecvoifileText.cpp.executor": "Run",
-    "C/C++ File.Lopban.cpp.executor": "Run",
-    "C/C++ File.MERGESORT.cpp.executor": "Run",
-    "C/C++ File.Mang2chieu.cpp.executor": "Run",
-    "C/C++ File.MangCongDon.cpp.executor": "Run",
-    "C/C++ File.MangCongDon2Chieu.cpp.executor": "Run",
-    "C/C++ File.Map.cpp.executor": "Run",
-    "C/C++ File.Map_p2.cpp.executor": "Run",
-    "C/C++ File.MergeSort.cpp.executor": "Run",
-    "C/C++ File.Multimap.cpp.executor": "Run",
-    "C/C++ File.Napchongtoantu.cpp.executor": "Run",
-    "C/C++ File.Pair.cpp.executor": "Run",
-    "C/C++ File.QuickSort.cpp.executor": "Run",
-    "C/C++ File.SelectionSort.cpp.executor": "Run",
-    "C/C++ File.Set.cpp.executor": "Run",
-    "C/C++ File.Set_multiset_unorderedset.cpp.executor": "Run",
-    "C/C++ File.Struct.cpp.executor": "Run",
-    "C/C++ File.TEST.cpp.executor": "Run",
-    "C/C++ File.TEST2.cpp.executor": "Run",
-    "C/C++ File.TEST3.cpp.executor": "Run",
-    "C/C++ File.TH-Test (DFS  Tren do thi vo huong).cpp.executor": "Run",
-    "C/C++ File.TH01_02.cpp.executor": "Run",
-    "C/C++ File.TH_01_01.cpp.executor": "Run",
-    "C/C++ File.TH_01_03.cpp.executor": "Run",
-    "C/C++ File.TH_01_04.cpp.executor": "Run",
-    "C/C++ File.TH_01_05.cpp.executor": "Run",
-    "C/C++ File.TH_01_06.cpp.executor": "Run",
-    "C/C++ File.TichLonNhat.cpp.executor": "Run",
-    "C/C++ File.TimKiemNhiPhan.cpp.executor": "Run",
-    "C/C++ File.Tinhdahinh.cpp.executor": "Run",
-    "C/C++ File.Tinhdonggoi.cpp.executor": "Run",
-    "C/C++ File.Tinhkethua.cpp.executor": "Run",
-    "C/C++ File.Vector_va_Iterator.cpp.executor": "Run",
-    "C/C++ File.Vidu.cpp.executor": "Run",
-    "C/C++ File.ViduLopban.cpp.executor": "Run",
-    "C/C++ File.WhileLoop.cpp.executor": "Run",
-    "C/C++ File.XauKyTu.cpp.executor": "Run",
-    "C/C++ File.bieuthuctoanhoc.cpp.executor": "Run",
-    "C/C++ File.binary_searchc1.cpp.executor": "Run",
-    "C/C++ File.break.cpp.executor": "Run",
-    "C/C++ File.bubble_sort.cpp.executor": "Run",
-    "C/C++ File.bubble_sort_c2.cpp.executor": "Run",
-    "C/C++ File.casting.cpp.executor": "Run",
-    "C/C++ File.const.cpp.executor": "Run",
-    "C/C++ File.continue.cpp.executor": "Run",
-    "C/C++ File.dayconlientiepcotonglonnhat.cpp.executor": "Run",
-    "C/C++ File.dowhileloop.cpp.executor": "Run",
-    "C/C++ File.forloop.cpp.executor": "Run",
-    "C/C++ File.func1.cpp.executor": "Run",
-    "C/C++ File.func2giaithua.cpp.executor": "Run",
-    "C/C++ File.func3.cpp.executor": "Run",
-    "C/C++ File.giatrinhonhatcuabieuthuc.cpp.executor": "Run",
-    "C/C++ File.goto.cpp.executor": "Run",
-    "C/C++ File.hello_world.cpp.executor": "Run",
-    "C/C++ File.index.cpp.executor": "Run",
-    "C/C++ File.insertion_sort.cpp.executor": "Debug",
-    "C/C++ File.kiemtradaungoac.cpp.executor": "Run",
-    "C/C++ File.linearSearch.cpp.executor": "Run",
-    "C/C++ File.local_global.cpp.executor": "Run",
-    "C/C++ File.logical_operators.cpp.executor": "Run",
-    "C/C++ File.mang1chieu.cpp.executor": "Run",
-    "C/C++ File.mang2chieu.cpp.executor": "Run",
-    "C/C++ File.multiset_unorderedset.cpp.executor": "Run",
-    "C/C++ File.operators.cpp.executor": "Run",
-    "C/C++ File.prefixSum.cpp.executor": "Run",
-    "C/C++ File.quick_sort.cpp.executor": "Run",
-    "C/C++ File.relational_operators.cpp.executor": "Run",
-    "C/C++ File.sokhoilapphuong.cpp.executor": "Run",
-    "C/C++ File.stringMethod.cpp.executor": "Run",
-    "C/C++ File.tessttttt.cpp.executor": "Run",
-    "C/C++ File.test.cpp.executor": "Debug",
-    "C/C++ File.test2.cpp.executor": "Run",
-    "C/C++ File.thutunguyento.cpp.executor": "Run",
-    "C/C++ File.timkiemnhiphan.cpp.executor": "Run",
-    "C/C++ File.trochoivoicacconso.cpp.executor": "Run",
-    "C/C++ File.unorderedset.cpp.executor": "Run",
-    "C/C++ File.var_input_output.cpp.executor": "Run",
-    "C/C++ File.whileloop.cpp.executor": "Run",
-    "C/C++ File.xoanoc.cpp.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.advertisement.text.overridden": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/28Tech/Baitap/SapXepVaTimKiem",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.01.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.01.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.01_DoiChoTrucTiep.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.01c2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.01c3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.02.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.02.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.02_SelectionSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.02c2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.02c3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.02phanturiengbiet.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.03.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.03.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.03_InsertionSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.03c2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.04.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.04.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.04_BubbleSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.05.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.05_LinearSearch.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.05c2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.05c3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.06.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.06_BinarySearch.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.06c2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.07.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.07_ViTriDauTien.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.08.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.08_ViTriCuoiCung.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.09.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.09_DemSoLanXuatHienTrongMangSapXep.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.09c2_DemSoLanXuatHienTrongMangSapXep.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10C2_QickSort_Hoare.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10_QickSort_Lomuto.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.10_lomutoPartition.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.11.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.11_Merge.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.12.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.13.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.13_KhieuVu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.13c2.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.14.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.14_NhaGanNhat.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.15_XepGach.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.16.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.16_VatSuaBo.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.16c2_VatSuaBo.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.17.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.17_DoiCho.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.17c2_DoiCho.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.18.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.18_InsertionSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.19.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.19_ACMICPC_2014_Problems-A.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.20.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.20_CasiLeRo.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.21.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.21_InTheoKhuonMau.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.21_InTheoKhuonMau_clean.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.21c2_InTheoKhuonMau.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.22.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.22_CountinSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.22c2_CountinSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.22c3_CountinSort.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.23.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.23_CapSoTongBangK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.23c2_CapSoTongBangK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.23c3_CapSoTongBangK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.23c4_CapSoTongBangK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.24.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.24_CapCoTongNhoHonK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.25.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.25_CapCoTongLonHonK.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.26.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.26_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.27.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.27_HopNhatHaiMang.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.27c2_HopNhatHaiMang.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.28.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.28_DienSoConThieu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.28c2_DienSoConThieu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.28c3_DienSoConThieu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.29.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.29_SapXepTheoGiaTriTuyetDoi.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.29c2_SapXepTheoGiaTriTuyetDoi.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.29c3_SapXepTheoGiaTriTuyetDoi.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.30.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.30_HopGiaoCuaHaiMang.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.31.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.31_SapXepLaiDayCon.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.32.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.BubbleSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.CTDL_001.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Cacchedolamviecvoifile.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Capphatdong.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ClassVaObject.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Contro.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ControvaObject.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ControvaStruct.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DSA03024.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DSA06024.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DSA09034.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.DSA9008.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.DSA_P296.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Demsocapnghichthetrongmang.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Doisomacdinh.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Forloop.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Function.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Hamban.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.InsertSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.InsertionSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.LamQuen.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.LamviecvoifileText.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Lopban.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.MERGESORT.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Mang2chieu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.MangCongDon.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.MangCongDon2Chieu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Map.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Map_p2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.MergeSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Multimap.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Napchongtoantu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Pair.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.QuickSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.SelectionSort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Set.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Set_multiset_unorderedset.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Struct.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TEST.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TEST2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TEST3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TH-Test (DFS  Tren do thi vo huong).cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TH01_02.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TH_01_01.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TH_01_03.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TH_01_04.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TH_01_05.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TH_01_06.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TichLonNhat.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.TimKiemNhiPhan.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Tinhdahinh.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Tinhdonggoi.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Tinhkethua.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Vector_va_Iterator.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Vidu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ViduLopban.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.WhileLoop.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.XauKyTu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.bieuthuctoanhoc.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.binary_searchc1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.break.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.bubble_sort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.bubble_sort_c2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.casting.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.const.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.continue.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.dayconlientiepcotonglonnhat.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.dowhileloop.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.forloop.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.func1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.func2giaithua.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.func3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.giatrinhonhatcuabieuthuc.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.goto.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.hello_world.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.index.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.insertion_sort.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.kiemtradaungoac.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.linearSearch.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.local_global.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.logical_operators.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.mang1chieu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.mang2chieu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.multiset_unorderedset.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.operators.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.prefixSum.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.quick_sort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.relational_operators.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sokhoilapphuong.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.stringMethod.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.tessttttt.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.test.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.test2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.thutunguyento.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.timkiemnhiphan.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.trochoivoicacconso.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.unorderedset.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.var_input_output.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.whileloop.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.xoanoc.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/study_material/C Plus Plus (C++)/28Tech/Baitap/SapXepVaTimKiem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Baitap\SapXepVaTimKiem" />
@@ -448,13 +469,7 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.30_HopGiaoCuaHaiMang.cpp">
-    <configuration name="28c3_DienSoConThieu.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="28c3_DienSoConThieu.cpp" CONFIG_NAME="28c3_DienSoConThieu.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\28c3_DienSoConThieu.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.31_SapXepLaiDayCon.cpp">
     <configuration name="29_SapXepTheoGiaTriTuyetDoi.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="29_SapXepTheoGiaTriTuyetDoi.cpp" CONFIG_NAME="29_SapXepTheoGiaTriTuyetDoi.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\29_SapXepTheoGiaTriTuyetDoi.cpp" />
       <method v="2">
@@ -479,6 +494,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="31_SapXepLaiDayCon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="31_SapXepLaiDayCon.cpp" CONFIG_NAME="31_SapXepLaiDayCon.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\31_SapXepLaiDayCon.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
       <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
@@ -487,11 +508,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.31_SapXepLaiDayCon.cpp" />
         <item itemvalue="C/C++ File.30_HopGiaoCuaHaiMang.cpp" />
         <item itemvalue="C/C++ File.29c3_SapXepTheoGiaTriTuyetDoi.cpp" />
         <item itemvalue="C/C++ File.29c2_SapXepTheoGiaTriTuyetDoi.cpp" />
         <item itemvalue="C/C++ File.29_SapXepTheoGiaTriTuyetDoi.cpp" />
-        <item itemvalue="C/C++ File.28c3_DienSoConThieu.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +617,8 @@
       <workItem from="1765590886953" duration="5431000" />
       <workItem from="1765613931621" duration="27975000" />
       <workItem from="1765674890534" duration="35287000" />
-      <workItem from="1765763105564" duration="4883000" />
+      <workItem from="1765763105564" duration="9343000" />
+      <workItem from="1765775003608" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -726,7 +748,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765766787587</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="30_HopGiaoCuaHaiMang">
+      <option name="closed" value="true" />
+      <created>1765768224147</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765768224147</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +779,8 @@
     <MESSAGE value="27_HopNhatHaiMang" />
     <MESSAGE value="28_DienSoConThieu" />
     <MESSAGE value="29_SapXepTheoGiaTriTuyetDoi" />
-    <option name="LAST_COMMIT_MESSAGE" value="29_SapXepTheoGiaTriTuyetDoi" />
+    <MESSAGE value="30_HopGiaoCuaHaiMang" />
+    <option name="LAST_COMMIT_MESSAGE" value="30_HopGiaoCuaHaiMang" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
