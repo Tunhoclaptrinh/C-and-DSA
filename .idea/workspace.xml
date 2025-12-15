@@ -18,8 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="36_SapXepChanLe">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/37_BieuThucNhoNhat.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="37_BieuThucNhoNhat">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/38_XepHang.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/38c2_XepHang.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,26 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -238,6 +259,7 @@
     "C/C++ File.35_GiaoCuaBaDaySo.cpp.executor": "Run",
     "C/C++ File.36_SapXepChanLe.cpp.executor": "Run",
     "C/C++ File.37_BieuThucNhoNhat.cpp.executor": "Run",
+    "C/C++ File.38_XepHang.cpp.executor": "Run",
     "C/C++ File.BubbleSort.cpp.executor": "Run",
     "C/C++ File.CTDL_001.cpp.executor": "Run",
     "C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp.executor": "Run",
@@ -377,19 +399,7 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.37_BieuThucNhoNhat.cpp">
-    <configuration name="33c2_DoiChoItNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="33c2_DoiChoItNhat.cpp" CONFIG_NAME="33c2_DoiChoItNhat.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\33c2_DoiChoItNhat.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="34_DemCapX^YLonHonY^X.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="34_DemCapX^YLonHonY^X.cpp" CONFIG_NAME="34_DemCapX^YLonHonY^X.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\34_DemCapX^YLonHonY^X.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.38c2_XepHang.cpp">
     <configuration name="35_GiaoCuaBaDaySo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="35_GiaoCuaBaDaySo.cpp" CONFIG_NAME="35_GiaoCuaBaDaySo.cpp">
       <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\35_GiaoCuaBaDaySo.cpp" />
       <method v="2">
@@ -408,6 +418,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="38_XepHang.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="38_XepHang.cpp" CONFIG_NAME="38_XepHang.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\38_XepHang.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="38c2_XepHang.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="38c2_XepHang.cpp" CONFIG_NAME="38c2_XepHang.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\38c2_XepHang.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
       <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
@@ -416,11 +438,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.38c2_XepHang.cpp" />
+        <item itemvalue="C/C++ File.38_XepHang.cpp" />
         <item itemvalue="C/C++ File.37_BieuThucNhoNhat.cpp" />
         <item itemvalue="C/C++ File.36_SapXepChanLe.cpp" />
         <item itemvalue="C/C++ File.35_GiaoCuaBaDaySo.cpp" />
-        <item itemvalue="C/C++ File.34_DemCapX^YLonHonY^X.cpp" />
-        <item itemvalue="C/C++ File.33c2_DoiChoItNhat.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -526,7 +548,7 @@
       <workItem from="1765613931621" duration="27975000" />
       <workItem from="1765674890534" duration="35287000" />
       <workItem from="1765763105564" duration="9343000" />
-      <workItem from="1765775003608" duration="25386000" />
+      <workItem from="1765775003608" duration="28131000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -720,7 +742,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765822181986</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="37_BieuThucNhoNhat">
+      <option name="closed" value="true" />
+      <created>1765823917528</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765823917528</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -751,7 +781,8 @@
     <MESSAGE value="34_DemCapX^YLonHonY^X" />
     <MESSAGE value="35_GiaoCuaBaDaySo" />
     <MESSAGE value="36_SapXepChanLe" />
-    <option name="LAST_COMMIT_MESSAGE" value="36_SapXepChanLe" />
+    <MESSAGE value="37_BieuThucNhoNhat" />
+    <option name="LAST_COMMIT_MESSAGE" value="37_BieuThucNhoNhat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1079,6 +1110,26 @@
           <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/22c3_CountinSort.cpp</url>
           <line>22</line>
           <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/38_XepHang.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/38_XepHang.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/38_XepHang.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/38_XepHang.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="192" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
