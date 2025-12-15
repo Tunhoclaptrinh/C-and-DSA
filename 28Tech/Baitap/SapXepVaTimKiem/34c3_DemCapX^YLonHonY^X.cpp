@@ -32,7 +32,7 @@ int count(int y[], int m, int x) {
 
   ll res = cnt[0] + cnt[1];
   // auto it = upper_bound(y, y+m, x);
-  // res += y + n - it;
+  // res += y + m - it;
   // hoặc
   int l = first_pos(y, 0, m - 1, x);
   if (l != -1) {
