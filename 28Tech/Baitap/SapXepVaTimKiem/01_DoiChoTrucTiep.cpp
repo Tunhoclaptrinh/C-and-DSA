@@ -28,17 +28,16 @@ void selectionSort(int arr[], int n) {
 }
 
 // đổi chỗ trực tiếp
-void sort(int arr[], int n) {
+void directSort(int arr[], int n) {
+  int cnt = 1;
   for (int i = 0; i < n - 1; i++) {
-    int idx = i;
     for (int j = i + 1; j < n; j++) {
-      if (arr[idx] > arr[j]) {
-        swap(arr[idx], arr[j]);
+      if (arr[i] > arr[j]) {
+        swap(arr[i], arr[j]);
       }
     }
-    cout << "Buoc " << cnt << ": ";
+    cout << "Buoc " << cnt++ << ": ";
     printArray(arr, n);
-    cnt++;
   }
 }
 
@@ -50,7 +49,7 @@ int main() {
     cin >> arr[i];
 
   selectionSort(arr, n);
-  // sort(arr, n);
+  // directSort(arr, n);
 
   return 0;
 }
