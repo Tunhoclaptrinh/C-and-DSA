@@ -18,9 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="30_HopGiaoCuaHaiMang">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/31_SapXepLaiDayCon.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="31_SapXepLaiDayCon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/31_SapXepLaiDayCon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/31_SapXepLaiDayCon.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -618,7 +618,7 @@
       <workItem from="1765613931621" duration="27975000" />
       <workItem from="1765674890534" duration="35287000" />
       <workItem from="1765763105564" duration="9343000" />
-      <workItem from="1765775003608" duration="1787000" />
+      <workItem from="1765775003608" duration="2692000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -756,7 +756,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765768224147</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="31_SapXepLaiDayCon">
+      <option name="closed" value="true" />
+      <created>1765776831533</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765776831533</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -780,7 +788,8 @@
     <MESSAGE value="28_DienSoConThieu" />
     <MESSAGE value="29_SapXepTheoGiaTriTuyetDoi" />
     <MESSAGE value="30_HopGiaoCuaHaiMang" />
-    <option name="LAST_COMMIT_MESSAGE" value="30_HopGiaoCuaHaiMang" />
+    <MESSAGE value="31_SapXepLaiDayCon" />
+    <option name="LAST_COMMIT_MESSAGE" value="31_SapXepLaiDayCon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

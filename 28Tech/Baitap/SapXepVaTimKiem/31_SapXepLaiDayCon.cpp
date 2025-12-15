@@ -22,7 +22,7 @@ void merge(int arr[], int l, int m, int r) {
   // merge
 
   while (i < n1 && j < n2) {
-    if (a[i] < b[i]) {
+    if (a[i] < b[j]) {
       arr[idx++] = a[i++];
     } else {
       arr[idx++] = b[j++];
@@ -80,7 +80,8 @@ int main() {
     }
 
     if (l >= r) {
-      break;
+      cout << "1 1\n";
+      continue;
     }
 
     cout << l + 1 << ' ' << r + 1;
