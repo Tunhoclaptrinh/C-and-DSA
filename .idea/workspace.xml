@@ -18,11 +18,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="39_CapPhanTuCoTongGan0Nhat">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/40_SoLapDauTienTrongMang.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/40c2_SoLapDauTienTrongMang.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="40_SoLapDauTienTrongMang">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhanTichThuaSoNguyenTo/1_PhanTich1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenTo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToc2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SoNguyenTo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SoNguyenTo_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SoNguyenTo_c3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SoNguyenTo_c4.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/34c2_DemCapX^YLonHonY^X.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/SapXepVaTimKiem/34c2_DemCapX^YLonHonY^X.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -378,7 +382,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/28Tech/Baitap/SapXepVaTimKiem",
+    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -390,18 +394,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Baitap\SapXepVaTimKiem" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\DSACodePTIT" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang1Chieu" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\BAITAPTRENLOP" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\28TechDSA" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)\TH_DSA" />
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.40_SoLapDauTienTrongMang.cpp">
@@ -554,7 +558,7 @@
       <workItem from="1765674890534" duration="35287000" />
       <workItem from="1765763105564" duration="9343000" />
       <workItem from="1765775003608" duration="28440000" />
-      <workItem from="1765850865419" duration="8700000" />
+      <workItem from="1765850865419" duration="19362000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -772,14 +776,21 @@
       <option name="project" value="LOCAL" />
       <updated>1765857628125</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="40_SoLapDauTienTrongMang">
+      <option name="closed" value="true" />
+      <created>1765861233514</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765861233514</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="17_DoiCho" />
     <MESSAGE value="fix 01_DoiChoTrucTiep" />
     <MESSAGE value="18_InsertionSort" />
     <MESSAGE value="19_ACMICPC_2014_Problems-A" />
@@ -804,7 +815,8 @@
     <MESSAGE value="37_BieuThucNhoNhat" />
     <MESSAGE value="38_XepHang" />
     <MESSAGE value="39_CapPhanTuCoTongGan0Nhat" />
-    <option name="LAST_COMMIT_MESSAGE" value="39_CapPhanTuCoTongGan0Nhat" />
+    <MESSAGE value="40_SoLapDauTienTrongMang" />
+    <option name="LAST_COMMIT_MESSAGE" value="40_SoLapDauTienTrongMang" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
