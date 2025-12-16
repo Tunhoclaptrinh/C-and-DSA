@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// cơ sở lý thuyết: x < y => x^y > y^x chỉ trừ một số trường hợp
 int countPairs(int x, vector<int> &b, vector<int> &cntY) {
   if (x == 0)
     return 0;
