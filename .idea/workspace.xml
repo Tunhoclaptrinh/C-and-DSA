@@ -18,8 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="SoNguyenTo">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhanTichThuaSoNguyenTo/1_PhanTich1.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="PhanTichThuaSoNguyenTo">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToTrenDoan.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToTrenDoan_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToTrenDoan_correct.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -299,6 +301,7 @@
     "C/C++ File.Napchongtoantu.cpp.executor": "Run",
     "C/C++ File.Pair.cpp.executor": "Run",
     "C/C++ File.QuickSort.cpp.executor": "Run",
+    "C/C++ File.SangSoNguyenToTrenDoan.cpp.executor": "Run",
     "C/C++ File.SelectionSort.cpp.executor": "Run",
     "C/C++ File.Set.cpp.executor": "Run",
     "C/C++ File.Set_multiset_unorderedset.cpp.executor": "Run",
@@ -403,15 +406,9 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.1_PhanTich1.cpp">
+  <component name="RunManager" selected="C/C++ File.SangSoNguyenToTrenDoan.cpp">
     <configuration name="1_PhanTich1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="1_PhanTich1.cpp" CONFIG_NAME="1_PhanTich1.cpp">
       <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\PhanTichThuaSoNguyenTo\1_PhanTich1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="38c2_XepHang.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="38c2_XepHang.cpp" CONFIG_NAME="38c2_XepHang.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\38c2_XepHang.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -434,6 +431,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SangSoNguyenToTrenDoan.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="SangSoNguyenToTrenDoan.cpp" CONFIG_NAME="SangSoNguyenToTrenDoan.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\SangSoNguyenToTrenDoan.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
       <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
@@ -442,11 +445,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.SangSoNguyenToTrenDoan.cpp" />
         <item itemvalue="C/C++ File.1_PhanTich1.cpp" />
         <item itemvalue="C/C++ File.40_SoLapDauTienTrongMang.cpp" />
         <item itemvalue="C/C++ File.39c2_CapPhanTuCoTongGan0Nhat.cpp" />
         <item itemvalue="C/C++ File.39_CapPhanTuCoTongGan0Nhat.cpp" />
-        <item itemvalue="C/C++ File.38c2_XepHang.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -553,7 +556,7 @@
       <workItem from="1765674890534" duration="35287000" />
       <workItem from="1765763105564" duration="9343000" />
       <workItem from="1765775003608" duration="28440000" />
-      <workItem from="1765850865419" duration="33837000" />
+      <workItem from="1765850865419" duration="39571000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -787,14 +790,21 @@
       <option name="project" value="LOCAL" />
       <updated>1765883727943</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="PhanTichThuaSoNguyenTo">
+      <option name="closed" value="true" />
+      <created>1765905219123</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1765905219124</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18_InsertionSort" />
     <MESSAGE value="19_ACMICPC_2014_Problems-A" />
     <MESSAGE value="20_CasiLeRo" />
     <MESSAGE value="21_InTheoKhuonMau" />
@@ -819,7 +829,8 @@
     <MESSAGE value="39_CapPhanTuCoTongGan0Nhat" />
     <MESSAGE value="40_SoLapDauTienTrongMang" />
     <MESSAGE value="SoNguyenTo" />
-    <option name="LAST_COMMIT_MESSAGE" value="SoNguyenTo" />
+    <MESSAGE value="PhanTichThuaSoNguyenTo" />
+    <option name="LAST_COMMIT_MESSAGE" value="PhanTichThuaSoNguyenTo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
