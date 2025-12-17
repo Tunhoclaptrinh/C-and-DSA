@@ -18,11 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="TongUoc">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/NguyenToCungNhau.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/PhiHamEuler.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="Phi Ham Euler">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/BoiChungNhoNhat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/UocChungLonNhat.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToc2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToc2.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +104,122 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/28Tech/Baitap/Mang2Chieu/25.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://G:/study_material/C Plus Plus (C++)/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToc2.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST2.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BAITAPTRENLOP/TEST3.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -234,6 +348,7 @@
     "C/C++ File.39_CapPhanTuCoTongGan0Nhat.cpp.executor": "Run",
     "C/C++ File.39c2_CapPhanTuCoTongGan0Nhat.cpp.executor": "Run",
     "C/C++ File.40_SoLapDauTienTrongMang.cpp.executor": "Run",
+    "C/C++ File.BoiChungNhoNhat.cpp.executor": "Run",
     "C/C++ File.BubbleSort.cpp.executor": "Run",
     "C/C++ File.CTDL_001.cpp.executor": "Run",
     "C/C++ File.CacThuatToanThongDungTrongThuVienAlgorithm.cpp.executor": "Run",
@@ -293,6 +408,8 @@
     "C/C++ File.Tinhdonggoi.cpp.executor": "Run",
     "C/C++ File.Tinhkethua.cpp.executor": "Run",
     "C/C++ File.TongUoc.cpp.executor": "Run",
+    "C/C++ File.UocChungLonNhat.cpp.executor": "Run",
+    "C/C++ File.UocChungLonNhat_BoiChungNhoNhat.cpp.executor": "Run",
     "C/C++ File.Vector_va_Iterator.cpp.executor": "Run",
     "C/C++ File.Vidu.cpp.executor": "Run",
     "C/C++ File.ViduLopban.cpp.executor": "Run",
@@ -378,9 +495,9 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.PhiHamEuler.cpp">
-    <configuration name="DemUoc.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DemUoc.cpp" CONFIG_NAME="DemUoc.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\DemUoc.cpp" />
+  <component name="RunManager" selected="C/C++ File.BoiChungNhoNhat.cpp">
+    <configuration name="BoiChungNhoNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="BoiChungNhoNhat.cpp" CONFIG_NAME="BoiChungNhoNhat.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\BoiChungNhoNhat.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -397,14 +514,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SangSoNguyenToTrenDoan.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="SangSoNguyenToTrenDoan.cpp" CONFIG_NAME="SangSoNguyenToTrenDoan.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\SangSoNguyenToTrenDoan.cpp" />
+    <configuration name="UocChungLonNhat_BoiChungNhoNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="UocChungLonNhat_BoiChungNhoNhat.cpp" CONFIG_NAME="UocChungLonNhat_BoiChungNhoNhat.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\UocChungLonNhat_BoiChungNhoNhat.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TongUoc.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="TongUoc.cpp" CONFIG_NAME="TongUoc.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\TongUoc.cpp" />
+    <configuration name="UocChungLonNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="UocChungLonNhat.cpp" CONFIG_NAME="UocChungLonNhat.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\UocChungLonNhat.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -417,11 +534,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.BoiChungNhoNhat.cpp" />
+        <item itemvalue="C/C++ File.UocChungLonNhat.cpp" />
+        <item itemvalue="C/C++ File.UocChungLonNhat_BoiChungNhoNhat.cpp" />
         <item itemvalue="C/C++ File.PhiHamEuler.cpp" />
         <item itemvalue="C/C++ File.NguyenToCungNhau.cpp" />
-        <item itemvalue="C/C++ File.TongUoc.cpp" />
-        <item itemvalue="C/C++ File.DemUoc.cpp" />
-        <item itemvalue="C/C++ File.SangSoNguyenToTrenDoan.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +646,7 @@
       <workItem from="1765763105564" duration="9343000" />
       <workItem from="1765775003608" duration="28440000" />
       <workItem from="1765850865419" duration="39722000" />
-      <workItem from="1765937522214" duration="12451000" />
+      <workItem from="1765937522214" duration="18323000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -795,15 +912,29 @@
       <option name="project" value="LOCAL" />
       <updated>1765944429612</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="NguyenToCungNhau">
+      <option name="closed" value="true" />
+      <created>1765964504500</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1765964504500</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Phi Ham Euler">
+      <option name="closed" value="true" />
+      <created>1765964516522</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1765964516522</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="22_CountinSort" />
-    <MESSAGE value="23_CapSoTongBangK" />
     <MESSAGE value="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK" />
     <MESSAGE value="26_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
     <MESSAGE value="26c2_TichCuaSoLonNhatMang1VaNhoNhatMang2" />
@@ -827,7 +958,9 @@
     <MESSAGE value="SangSoNguyenToTrenDoan" />
     <MESSAGE value="DemUoc" />
     <MESSAGE value="TongUoc" />
-    <option name="LAST_COMMIT_MESSAGE" value="TongUoc" />
+    <MESSAGE value="NguyenToCungNhau" />
+    <MESSAGE value="Phi Ham Euler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phi Ham Euler" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
