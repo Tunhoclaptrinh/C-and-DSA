@@ -19,7 +19,7 @@ void sieve() {
   for (int i = 2; i * i <= MAXN; i++) {
     // Nếu i là số nguyên tố
     if (prime[i]) {
-      // Duyệt tất cả các bội ố của i và cho nó không là số nguyên tố
+      // Duyệt tất cả các bội số của i và cho nó không là số nguyên tố
       for (int j = i * i; j <= MAXN; j += i) {
         prime[j] = 0;
       }
