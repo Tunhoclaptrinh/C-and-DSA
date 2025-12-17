@@ -18,10 +18,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="SangSoNguyenToTrenDoan">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/DemUoc.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/TongUoc.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="TongUoc">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/NguyenToCungNhau.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/PhiHamEuler.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToc2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/SangSoNguyenToc2.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +268,9 @@
     "C/C++ File.MergeSort.cpp.executor": "Run",
     "C/C++ File.Multimap.cpp.executor": "Run",
     "C/C++ File.Napchongtoantu.cpp.executor": "Run",
+    "C/C++ File.NguyenToCungNhau.cpp.executor": "Run",
     "C/C++ File.Pair.cpp.executor": "Run",
+    "C/C++ File.PhiHamEuler.cpp.executor": "Run",
     "C/C++ File.QuickSort.cpp.executor": "Run",
     "C/C++ File.SangSoNguyenToTrenDoan.cpp.executor": "Run",
     "C/C++ File.SelectionSort.cpp.executor": "Run",
@@ -375,21 +378,21 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.TongUoc.cpp">
-    <configuration name="1_PhanTich1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="1_PhanTich1.cpp" CONFIG_NAME="1_PhanTich1.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\PhanTichThuaSoNguyenTo\1_PhanTich1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="40_SoLapDauTienTrongMang.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="40_SoLapDauTienTrongMang.cpp" CONFIG_NAME="40_SoLapDauTienTrongMang.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\SapXepVaTimKiem\40_SoLapDauTienTrongMang.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.PhiHamEuler.cpp">
     <configuration name="DemUoc.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DemUoc.cpp" CONFIG_NAME="DemUoc.cpp">
       <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\DemUoc.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NguyenToCungNhau.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="NguyenToCungNhau.cpp" CONFIG_NAME="NguyenToCungNhau.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\NguyenToCungNhau.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhiHamEuler.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="PhiHamEuler.cpp" CONFIG_NAME="PhiHamEuler.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\PhiHamEuler.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -414,11 +417,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.PhiHamEuler.cpp" />
+        <item itemvalue="C/C++ File.NguyenToCungNhau.cpp" />
         <item itemvalue="C/C++ File.TongUoc.cpp" />
         <item itemvalue="C/C++ File.DemUoc.cpp" />
         <item itemvalue="C/C++ File.SangSoNguyenToTrenDoan.cpp" />
-        <item itemvalue="C/C++ File.1_PhanTich1.cpp" />
-        <item itemvalue="C/C++ File.40_SoLapDauTienTrongMang.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -526,7 +529,7 @@
       <workItem from="1765763105564" duration="9343000" />
       <workItem from="1765775003608" duration="28440000" />
       <workItem from="1765850865419" duration="39722000" />
-      <workItem from="1765937522214" duration="5300000" />
+      <workItem from="1765937522214" duration="12451000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -776,15 +779,29 @@
       <option name="project" value="LOCAL" />
       <updated>1765910677605</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="DemUoc">
+      <option name="closed" value="true" />
+      <created>1765944418795</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1765944418795</updated>
+    </task>
+    <task id="LOCAL-00033" summary="TongUoc">
+      <option name="closed" value="true" />
+      <created>1765944429612</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1765944429612</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20_CasiLeRo" />
-    <MESSAGE value="21_InTheoKhuonMau" />
     <MESSAGE value="22_CountinSort" />
     <MESSAGE value="23_CapSoTongBangK" />
     <MESSAGE value="24_CapSoTongNhoHonK, 25_CapSoTongLonHonK" />
@@ -808,7 +825,9 @@
     <MESSAGE value="SoNguyenTo" />
     <MESSAGE value="PhanTichThuaSoNguyenTo" />
     <MESSAGE value="SangSoNguyenToTrenDoan" />
-    <option name="LAST_COMMIT_MESSAGE" value="SangSoNguyenToTrenDoan" />
+    <MESSAGE value="DemUoc" />
+    <MESSAGE value="TongUoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="TongUoc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
