@@ -18,14 +18,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="PhepToanModulo">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm.md" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/NghichDaoModul_ModularInverse/NghichDaoModul_ModularInverse.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/NghichDaoModul_ModularInverse/NghichDaoModul_ModularInverse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo_ModularArithmetic/PhepToanModulo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.md" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo_ModularArithmetic/PhepToanModulo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoFibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoFibonacci/SoFibonacci.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/bt_KiemTraSoFibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoFibonacci/bt_KiemTraSoFibonacci.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo_ModularArithmetic/PhepToanModulo.md" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo_ModularArithmetic/PhepToanModulo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/PhiHamEuler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/PhiHamEuler.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,6 +228,7 @@
     "C/C++ File.MergeSort.cpp.executor": "Run",
     "C/C++ File.Multimap.cpp.executor": "Run",
     "C/C++ File.Napchongtoantu.cpp.executor": "Run",
+    "C/C++ File.NghichDaoModul_ModularInverse.cpp.executor": "Run",
     "C/C++ File.NguyenToCungNhau.cpp.executor": "Run",
     "C/C++ File.Pair.cpp.executor": "Run",
     "C/C++ File.PhiHamEuler.cpp.executor": "Run",
@@ -342,7 +343,7 @@
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.bt_KiemTraSoFibonacci.cpp">
+  <component name="RunManager" selected="C/C++ File.NghichDaoModul_ModularInverse.cpp">
     <configuration name="BoiChungNhoNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="BoiChungNhoNhat.cpp" CONFIG_NAME="BoiChungNhoNhat.cpp">
       <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\BoiChungNhoNhat.cpp" />
       <method v="2">
@@ -355,14 +356,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoFIbonacci.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="SoFIbonacci.cpp" CONFIG_NAME="SoFIbonacci.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoFIbonacci.cpp" />
+    <configuration name="NghichDaoModul_ModularInverse.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="NghichDaoModul_ModularInverse.cpp" CONFIG_NAME="NghichDaoModul_ModularInverse.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\NghichDaoModul_ModularInverse\NghichDaoModul_ModularInverse.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UocChungLonNhat.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="UocChungLonNhat.cpp" CONFIG_NAME="UocChungLonNhat.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo\UocChungLonNhat.cpp" />
+    <configuration name="SoFIbonacci.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="SoFIbonacci.cpp" CONFIG_NAME="SoFIbonacci.cpp">
+      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoFIbonacci.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -381,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.NghichDaoModul_ModularInverse.cpp" />
         <item itemvalue="C/C++ File.bt_KiemTraSoFibonacci.cpp" />
         <item itemvalue="C/C++ File.SoFIbonacci.cpp" />
         <item itemvalue="C/C++ File.LuyThuaNhiPhan.cpp" />
         <item itemvalue="C/C++ File.BoiChungNhoNhat.cpp" />
-        <item itemvalue="C/C++ File.UocChungLonNhat.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +495,7 @@
       <workItem from="1765775003608" duration="28440000" />
       <workItem from="1765850865419" duration="39722000" />
       <workItem from="1765937522214" duration="22120000" />
-      <workItem from="1766050111126" duration="15574000" />
+      <workItem from="1766050111126" duration="21352000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -816,14 +817,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766060256305</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm">
+      <option name="closed" value="true" />
+      <created>1766079773884</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1766079773886</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="29_SapXepTheoGiaTriTuyetDoi" />
     <MESSAGE value="30_HopGiaoCuaHaiMang" />
     <MESSAGE value="31_SapXepLaiDayCon" />
     <MESSAGE value="fix 31_SapXepLaiDayCon" />
@@ -848,7 +856,8 @@
     <MESSAGE value="LuyThuaNhiPhan" />
     <MESSAGE value="SoFibonacci" />
     <MESSAGE value="PhepToanModulo" />
-    <option name="LAST_COMMIT_MESSAGE" value="PhepToanModulo" />
+    <MESSAGE value="GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

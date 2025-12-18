@@ -1,4 +1,4 @@
-Ok 👍 mình sẽ viết **lý thuyết nền tảng của phép chia dư (modulo)** theo kiểu **dễ học – đúng bản chất – có minh họa**,
+**lý thuyết nền tảng của phép chia dư (modulo)** theo kiểu **dễ học – đúng bản chất – có minh họa**,
 đúng trình tự để bạn dùng được ngay trong thuật toán & code.
 
 ---

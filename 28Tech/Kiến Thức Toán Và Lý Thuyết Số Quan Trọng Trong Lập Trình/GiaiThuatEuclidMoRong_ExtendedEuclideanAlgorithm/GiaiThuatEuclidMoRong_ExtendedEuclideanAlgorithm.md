@@ -1,4 +1,4 @@
-Ok 👍 mình nói **giải thuật Euclid mở rộng** theo đúng kiểu bạn đang học:
+**giải thuật Euclid mở rộng** theo đúng kiểu bạn đang học:
 **từ Euclid thường → mở rộng → vì sao cần → code → ví dụ cụ thể**. Không lan man.
 
 ---

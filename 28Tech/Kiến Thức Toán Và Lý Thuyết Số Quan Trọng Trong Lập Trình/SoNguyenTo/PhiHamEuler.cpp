@@ -29,7 +29,7 @@ long long phi(long long n) {
       while (n % i == 0) {
         n /= i;
       }
-      // res = res * (1 - 1 / i); => như này thaành số thực là sai mất
+      // res = res * (1 - 1 / i); => như này thành số thực là sai mất
       // => biến đổi công thức 1 tí
       res = res - res / i;
     }
