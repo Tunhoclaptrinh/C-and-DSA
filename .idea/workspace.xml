@@ -18,10 +18,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="SoFibonacci">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.md" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="PhepToanModulo">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm/GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo_ModularArithmetic/PhepToanModulo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.md" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo_ModularArithmetic/PhepToanModulo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoFibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoFibonacci/SoFibonacci.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/bt_KiemTraSoFibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoFibonacci/bt_KiemTraSoFibonacci.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -331,11 +335,11 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\DSACodePTIT" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm" />
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoFibonacci" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\PhepToanModulo" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)\BAITAPTRENLOP" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)\28TechDSA" />
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.bt_KiemTraSoFibonacci.cpp">
@@ -490,7 +494,7 @@
       <workItem from="1765775003608" duration="28440000" />
       <workItem from="1765850865419" duration="39722000" />
       <workItem from="1765937522214" duration="22120000" />
-      <workItem from="1766050111126" duration="9211000" />
+      <workItem from="1766050111126" duration="15574000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -804,14 +808,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766056141794</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="PhepToanModulo">
+      <option name="closed" value="true" />
+      <created>1766060256305</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1766060256305</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="28_DienSoConThieu" />
     <MESSAGE value="29_SapXepTheoGiaTriTuyetDoi" />
     <MESSAGE value="30_HopGiaoCuaHaiMang" />
     <MESSAGE value="31_SapXepLaiDayCon" />
@@ -836,7 +847,8 @@
     <MESSAGE value="BoiChungNhoNhat - BCNN" />
     <MESSAGE value="LuyThuaNhiPhan" />
     <MESSAGE value="SoFibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="SoFibonacci" />
+    <MESSAGE value="PhepToanModulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="PhepToanModulo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
