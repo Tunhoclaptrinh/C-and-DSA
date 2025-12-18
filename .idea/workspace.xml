@@ -18,9 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="LuyThuaNhiPhan">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoFIbonacci.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/bt_KiemTraSoFibonacci.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="SoFibonacci">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/PhepToanModulo/PhepToanModulo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -331,11 +331,11 @@
       <recent name="G:\0. study_material\C Plus Plus (C++)\DSACodePTIT" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\PhepToanModulo" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\BAITAPTRENLOP" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\28TechDSA" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.bt_KiemTraSoFibonacci.cpp">
@@ -490,7 +490,7 @@
       <workItem from="1765775003608" duration="28440000" />
       <workItem from="1765850865419" duration="39722000" />
       <workItem from="1765937522214" duration="22120000" />
-      <workItem from="1766050111126" duration="5693000" />
+      <workItem from="1766050111126" duration="9211000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -796,14 +796,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766052062731</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="SoFibonacci">
+      <option name="closed" value="true" />
+      <created>1766056141794</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1766056141794</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="27_HopNhatHaiMang" />
     <MESSAGE value="28_DienSoConThieu" />
     <MESSAGE value="29_SapXepTheoGiaTriTuyetDoi" />
     <MESSAGE value="30_HopGiaoCuaHaiMang" />
@@ -828,7 +835,8 @@
     <MESSAGE value="UocChungLonNhat = UCLN" />
     <MESSAGE value="BoiChungNhoNhat - BCNN" />
     <MESSAGE value="LuyThuaNhiPhan" />
-    <option name="LAST_COMMIT_MESSAGE" value="LuyThuaNhiPhan" />
+    <MESSAGE value="SoFibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="SoFibonacci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
