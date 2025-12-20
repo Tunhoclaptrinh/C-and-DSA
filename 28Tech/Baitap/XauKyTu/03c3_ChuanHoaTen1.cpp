@@ -34,10 +34,15 @@ int main() {
     for (int i = 0; i < fullName.size(); i++) {
       if (i < fullName.size() - 1) {
         chuanHoa(fullName[i]);
+        if (i == fullName.size() - 2) {
+          cout << fullName[i] << ", ";
+        } else {
+          cout << fullName[i] << " ";
+        }
       } else {
         vietHoa(fullName[i]);
+        cout << fullName[i];
       }
-      cout << fullName[i] << ' ';
     }
 
     cout << endl;

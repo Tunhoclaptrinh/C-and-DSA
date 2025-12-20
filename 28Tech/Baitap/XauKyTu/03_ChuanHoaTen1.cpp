@@ -23,7 +23,11 @@ int main() {
       for (int j = 1; j < fullName[i].size(); j++) {
         cout << (char)tolower(fullName[i][j]);
       }
-      cout << ' ';
+      if (i == fullName.size() - 2) {
+        cout << ", ";
+      } else {
+        cout << " ";
+      }
     }
     for (int i = 0; i < fullName.back().size(); i++) {
       cout << (char)toupper(fullName.back()[i]);

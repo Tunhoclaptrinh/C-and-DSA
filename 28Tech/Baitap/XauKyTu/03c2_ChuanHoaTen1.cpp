@@ -6,7 +6,6 @@ void printHo(string ho) {
   for (int j = 1; j < ho.size(); j++) {
     cout << (char)tolower(ho[j]);
   }
-  cout << ' ';
 }
 
 void printTen(string ten) {
@@ -34,6 +33,11 @@ int main() {
 
     for (int i = 0; i < fullName.size() - 1; i++) {
       printHo(fullName[i]);
+      if (i == fullName.size() - 2) {
+        cout << ", ";
+      } else {
+        cout << " ";
+      }
     }
 
     printTen(fullName.back());
