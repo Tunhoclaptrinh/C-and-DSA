@@ -18,10 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="ToHopChapKCuaN_BinomialCoefficient">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio/TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio/TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio/test.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio">
+      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/BaiToanChiaKeoEuler/BaiToanCaiKeoEuler.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -497,7 +495,7 @@
       <workItem from="1765937522214" duration="22120000" />
       <workItem from="1766050111126" duration="24679000" />
       <workItem from="1766108512183" duration="796000" />
-      <workItem from="1766154070675" duration="8931000" />
+      <workItem from="1766154070675" duration="13240000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -843,14 +841,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766154161925</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio">
+      <option name="closed" value="true" />
+      <created>1766203789270</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1766203789270</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix 31_SapXepLaiDayCon" />
     <MESSAGE value="32_1_SapXepChuSo, 32_2_SapXepTheoTanSuat" />
     <MESSAGE value="33_DoiChoItNhat" />
     <MESSAGE value="34_DemCapX^YLonHonY^X" />
@@ -875,7 +880,8 @@
     <MESSAGE value="GiaiThuatEuclidMoRong_ExtendedEuclideanAlgorithm" />
     <MESSAGE value="NghichDaoModul_ModularInverse" />
     <MESSAGE value="ToHopChapKCuaN_BinomialCoefficient" />
-    <option name="LAST_COMMIT_MESSAGE" value="ToHopChapKCuaN_BinomialCoefficient" />
+    <MESSAGE value="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio" />
+    <option name="LAST_COMMIT_MESSAGE" value="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
