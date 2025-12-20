@@ -18,8 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio">
-      <change afterPath="$PROJECT_DIR$/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/BaiToanChiaKeoEuler/BaiToanCaiKeoEuler.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="DeQuy_RECURSION">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/0_TachTuVoi_stringstream.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/DeQuy_RECURSION.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +109,7 @@
     "C/C++ File.09.cpp.executor": "Run",
     "C/C++ File.09_DemSoLanXuatHienTrongMangSapXep.cpp.executor": "Run",
     "C/C++ File.09c2_DemSoLanXuatHienTrongMangSapXep.cpp.executor": "Run",
+    "C/C++ File.0_TachTuVoi_stringstream.cpp.executor": "Run",
     "C/C++ File.1.cpp.executor": "Run",
     "C/C++ File.10.cpp.executor": "Run",
     "C/C++ File.10C2_QickSort_Hoare.cpp.executor": "Run",
@@ -202,6 +204,7 @@
     "C/C++ File.DSA09034.cpp.executor": "Run",
     "C/C++ File.DSA9008.cpp.executor": "Debug",
     "C/C++ File.DSA_P296.cpp.executor": "Run",
+    "C/C++ File.DeQuy_RECURSION.cpp.executor": "Run",
     "C/C++ File.DemUoc.cpp.executor": "Run",
     "C/C++ File.Demsocapnghichthetrongmang.cpp.executor": "Run",
     "C/C++ File.Doisomacdinh.cpp.executor": "Run",
@@ -341,9 +344,15 @@
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.test.cpp">
-    <configuration name="NghichDaoModul_ModularInverse.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="NghichDaoModul_ModularInverse.cpp" CONFIG_NAME="NghichDaoModul_ModularInverse.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\NghichDaoModul_ModularInverse\NghichDaoModul_ModularInverse.cpp" />
+  <component name="RunManager" selected="C/C++ File.0_TachTuVoi_stringstream.cpp">
+    <configuration name="0_TachTuVoi_stringstream.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="0_TachTuVoi_stringstream.cpp" CONFIG_NAME="0_TachTuVoi_stringstream.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\0_TachTuVoi_stringstream.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeQuy_RECURSION.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DeQuy_RECURSION.cpp" CONFIG_NAME="DeQuy_RECURSION.cpp">
+      <option name="sourceFile" value="28Tech\DeQuy_RECURSION.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -356,12 +365,6 @@
     </configuration>
     <configuration name="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" CONFIG_NAME="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp">
       <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToHopChapKCuaN_BinomialCoefficient.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="ToHopChapKCuaN_BinomialCoefficient.cpp" CONFIG_NAME="ToHopChapKCuaN_BinomialCoefficient.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\ToHopChapKCuaN_BinomialCoefficient\ToHopChapKCuaN_BinomialCoefficient.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -380,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.0_TachTuVoi_stringstream.cpp" />
+        <item itemvalue="C/C++ File.DeQuy_RECURSION.cpp" />
         <item itemvalue="C/C++ File.test.cpp" />
         <item itemvalue="C/C++ File.TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp (1)" />
         <item itemvalue="C/C++ File.TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" />
-        <item itemvalue="C/C++ File.ToHopChapKCuaN_BinomialCoefficient.cpp" />
-        <item itemvalue="C/C++ File.NghichDaoModul_ModularInverse.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +498,7 @@
       <workItem from="1765937522214" duration="22120000" />
       <workItem from="1766050111126" duration="24679000" />
       <workItem from="1766108512183" duration="796000" />
-      <workItem from="1766154070675" duration="13240000" />
+      <workItem from="1766154070675" duration="17341000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -849,14 +852,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766203789270</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="DeQuy_RECURSION">
+      <option name="closed" value="true" />
+      <created>1766218171731</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1766218171731</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="32_1_SapXepChuSo, 32_2_SapXepTheoTanSuat" />
     <MESSAGE value="33_DoiChoItNhat" />
     <MESSAGE value="34_DemCapX^YLonHonY^X" />
     <MESSAGE value="35_GiaoCuaBaDaySo" />
@@ -881,7 +891,8 @@
     <MESSAGE value="NghichDaoModul_ModularInverse" />
     <MESSAGE value="ToHopChapKCuaN_BinomialCoefficient" />
     <MESSAGE value="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio" />
-    <option name="LAST_COMMIT_MESSAGE" value="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio" />
+    <MESSAGE value="DeQuy_RECURSION" />
+    <option name="LAST_COMMIT_MESSAGE" value="DeQuy_RECURSION" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
