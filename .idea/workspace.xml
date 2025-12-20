@@ -18,10 +18,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="0_TachTuVoi_stringstream">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/01c2_XoaTuTrongCau.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/01c3_XoaTuTrongCau.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/XoaTuTrongCau.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="01_XoaTuTrongCau">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/02_1_TaoEmail.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/02_1c2_TaoEmail.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/02_2_TaoEmail.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/02_2c2_TaoEmail.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/Nhap.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +88,9 @@
     "C/C++ File.01c3.cpp.executor": "Run",
     "C/C++ File.02.cpp (1).executor": "Run",
     "C/C++ File.02.cpp.executor": "Run",
+    "C/C++ File.02_2_TaoEmail.cpp.executor": "Run",
     "C/C++ File.02_SelectionSort.cpp.executor": "Run",
+    "C/C++ File.02_TaoEmail.cpp.executor": "Run",
     "C/C++ File.02c2.cpp.executor": "Run",
     "C/C++ File.02c3.cpp.executor": "Run",
     "C/C++ File.02phanturiengbiet.cpp.executor": "Run",
@@ -230,6 +234,7 @@
     "C/C++ File.Napchongtoantu.cpp.executor": "Run",
     "C/C++ File.NghichDaoModul_ModularInverse.cpp.executor": "Run",
     "C/C++ File.NguyenToCungNhau.cpp.executor": "Run",
+    "C/C++ File.Nhap.cpp.executor": "Run",
     "C/C++ File.Pair.cpp.executor": "Run",
     "C/C++ File.PhiHamEuler.cpp.executor": "Run",
     "C/C++ File.QuickSort.cpp.executor": "Run",
@@ -327,7 +332,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -347,21 +352,27 @@
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.01c2_XoaTuTrongCau.cpp">
+  <component name="RunManager" selected="C/C++ File.02_2_TaoEmail.cpp">
     <configuration name="01c2_XoaTuTrongCau.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="01c2_XoaTuTrongCau.cpp" CONFIG_NAME="01c2_XoaTuTrongCau.cpp">
       <option name="sourceFile" value="28Tech\Baitap\XauKyTu\01c2_XoaTuTrongCau.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="0_TachTuVoi_stringstream.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="0_TachTuVoi_stringstream.cpp" CONFIG_NAME="0_TachTuVoi_stringstream.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\0_TachTuVoi_stringstream.cpp" />
+    <configuration name="02_2_TaoEmail.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="02_2_TaoEmail.cpp" CONFIG_NAME="02_2_TaoEmail.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\02_2_TaoEmail.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeQuy_RECURSION.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DeQuy_RECURSION.cpp" CONFIG_NAME="DeQuy_RECURSION.cpp">
-      <option name="sourceFile" value="28Tech\DeQuy_RECURSION.cpp" />
+    <configuration name="02_TaoEmail.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="02_TaoEmail.cpp" CONFIG_NAME="02_TaoEmail.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\02_TaoEmail.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nhap.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="Nhap.cpp" CONFIG_NAME="Nhap.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\Nhap.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -378,19 +389,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="test.cpp" CONFIG_NAME="test.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio\test.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.02_2_TaoEmail.cpp" />
+        <item itemvalue="C/C++ File.02_TaoEmail.cpp" />
+        <item itemvalue="C/C++ File.Nhap.cpp" />
         <item itemvalue="C/C++ File.01c2_XoaTuTrongCau.cpp" />
         <item itemvalue="C/C++ File.XoaTuTrongCau.cpp" />
-        <item itemvalue="C/C++ File.0_TachTuVoi_stringstream.cpp" />
-        <item itemvalue="C/C++ File.DeQuy_RECURSION.cpp" />
-        <item itemvalue="C/C++ File.test.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +507,7 @@
       <workItem from="1766050111126" duration="24679000" />
       <workItem from="1766108512183" duration="796000" />
       <workItem from="1766154070675" duration="18073000" />
-      <workItem from="1766235779666" duration="1306000" />
+      <workItem from="1766235779666" duration="6660000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -872,14 +877,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766222655224</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="01_XoaTuTrongCau">
+      <option name="closed" value="true" />
+      <created>1766237242197</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1766237242197</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="34_DemCapX^YLonHonY^X" />
     <MESSAGE value="35_GiaoCuaBaDaySo" />
     <MESSAGE value="36_SapXepChanLe" />
     <MESSAGE value="37_BieuThucNhoNhat" />
@@ -904,7 +916,8 @@
     <MESSAGE value="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio" />
     <MESSAGE value="DeQuy_RECURSION" />
     <MESSAGE value="0_TachTuVoi_stringstream" />
-    <option name="LAST_COMMIT_MESSAGE" value="0_TachTuVoi_stringstream" />
+    <MESSAGE value="01_XoaTuTrongCau" />
+    <option name="LAST_COMMIT_MESSAGE" value="01_XoaTuTrongCau" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
