@@ -18,10 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="03_ChuanHoaTen1">
-      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/03_ChuanHoaTen1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/03_ChuanHoaTen1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/03c2_ChuanHoaTen1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/03c2_ChuanHoaTen1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/03c3_ChuanHoaTen1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/03c3_ChuanHoaTen1.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="fix 03_ChuanHoaTen1">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/04_ChuanHoaTen2.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +99,7 @@
     "C/C++ File.04.cpp (1).executor": "Run",
     "C/C++ File.04.cpp.executor": "Run",
     "C/C++ File.04_BubbleSort.cpp.executor": "Run",
+    "C/C++ File.04_ChuanHoaTen2.cpp.executor": "Run",
     "C/C++ File.05.cpp.executor": "Run",
     "C/C++ File.05_LinearSearch.cpp.executor": "Run",
     "C/C++ File.05c2.cpp.executor": "Run",
@@ -352,15 +351,9 @@
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.03c2_ChuanHoaTen1.cpp">
+  <component name="RunManager" selected="C/C++ File.04_ChuanHoaTen2.cpp">
     <configuration name="02_2_TaoEmail.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="02_2_TaoEmail.cpp" CONFIG_NAME="02_2_TaoEmail.cpp">
       <option name="sourceFile" value="28Tech\Baitap\XauKyTu\02_2_TaoEmail.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="02_TaoEmail.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="02_TaoEmail.cpp" CONFIG_NAME="02_TaoEmail.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\02_TaoEmail.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -383,6 +376,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="04_ChuanHoaTen2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="04_ChuanHoaTen2.cpp" CONFIG_NAME="04_ChuanHoaTen2.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\04_ChuanHoaTen2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
       <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
@@ -391,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.04_ChuanHoaTen2.cpp" />
         <item itemvalue="C/C++ File.03c2_ChuanHoaTen1.cpp" />
         <item itemvalue="C/C++ File.03c3_ChuanHoaTen1.cpp" />
         <item itemvalue="C/C++ File.03_ChuanHoaTen1.cpp" />
         <item itemvalue="C/C++ File.02_2_TaoEmail.cpp" />
-        <item itemvalue="C/C++ File.02_TaoEmail.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -507,15 +506,7 @@
       <workItem from="1766050111126" duration="24679000" />
       <workItem from="1766108512183" duration="796000" />
       <workItem from="1766154070675" duration="18073000" />
-      <workItem from="1766235779666" duration="8980000" />
-    </task>
-    <task id="LOCAL-00001" summary="10 ex">
-      <option name="closed" value="true" />
-      <created>1765634994854</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1765634994854</updated>
+      <workItem from="1766235779666" duration="9344000" />
     </task>
     <task id="LOCAL-00002" summary="add">
       <option name="closed" value="true" />
@@ -901,14 +892,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766244473346</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="fix 03_ChuanHoaTen1">
+      <option name="closed" value="true" />
+      <created>1766244844040</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1766244844041</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="37_BieuThucNhoNhat" />
     <MESSAGE value="38_XepHang" />
     <MESSAGE value="39_CapPhanTuCoTongGan0Nhat" />
     <MESSAGE value="40_SoLapDauTienTrongMang" />
@@ -933,7 +931,8 @@
     <MESSAGE value="01_XoaTuTrongCau" />
     <MESSAGE value="02_TaoEmail" />
     <MESSAGE value="03_ChuanHoaTen1" />
-    <option name="LAST_COMMIT_MESSAGE" value="03_ChuanHoaTen1" />
+    <MESSAGE value="fix 03_ChuanHoaTen1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix 03_ChuanHoaTen1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
