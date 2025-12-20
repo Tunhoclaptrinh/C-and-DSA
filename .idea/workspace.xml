@@ -18,9 +18,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="DeQuy_RECURSION">
-      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/0_TachTuVoi_stringstream.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28Tech/DeQuy_RECURSION.cpp" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="0_TachTuVoi_stringstream">
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/01c2_XoaTuTrongCau.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/01c3_XoaTuTrongCau.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28Tech/Baitap/XauKyTu/XoaTuTrongCau.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +82,7 @@
     "C/C++ File.01.cpp.executor": "Run",
     "C/C++ File.01_DoiChoTrucTiep.cpp.executor": "Run",
     "C/C++ File.01c2.cpp.executor": "Run",
+    "C/C++ File.01c2_XoaTuTrongCau.cpp.executor": "Run",
     "C/C++ File.01c3.cpp.executor": "Run",
     "C/C++ File.02.cpp (1).executor": "Run",
     "C/C++ File.02.cpp.executor": "Run",
@@ -263,6 +265,7 @@
     "C/C++ File.ViduLopban.cpp.executor": "Run",
     "C/C++ File.WhileLoop.cpp.executor": "Run",
     "C/C++ File.XauKyTu.cpp.executor": "Run",
+    "C/C++ File.XoaTuTrongCau.cpp.executor": "Run",
     "C/C++ File.bieuthuctoanhoc.cpp.executor": "Run",
     "C/C++ File.binary_searchc1.cpp.executor": "Run",
     "C/C++ File.break.cpp.executor": "Run",
@@ -318,7 +321,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/28Tech/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo",
+    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/28Tech/Baitap/XauKyTu",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -330,11 +333,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Baitap\XauKyTu" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Baitap\SapXepVaTimKiem" />
       <recent name="G:\0. study_material\C Plus Plus (C++)\28Tech\Baitap\Mang2Chieu" />
-      <recent name="G:\0. study_material\C Plus Plus (C++)\DSACodePTIT" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio" />
@@ -344,7 +347,13 @@
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\SoNguyenTo" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.0_TachTuVoi_stringstream.cpp">
+  <component name="RunManager" selected="C/C++ File.01c2_XoaTuTrongCau.cpp">
+    <configuration name="01c2_XoaTuTrongCau.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="01c2_XoaTuTrongCau.cpp" CONFIG_NAME="01c2_XoaTuTrongCau.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\01c2_XoaTuTrongCau.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="0_TachTuVoi_stringstream.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="0_TachTuVoi_stringstream.cpp" CONFIG_NAME="0_TachTuVoi_stringstream.cpp">
       <option name="sourceFile" value="28Tech\Baitap\XauKyTu\0_TachTuVoi_stringstream.cpp" />
       <method v="2">
@@ -357,14 +366,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" CONFIG_NAME="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio\TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" CONFIG_NAME="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp">
-      <option name="sourceFile" value="28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" />
+    <configuration name="XoaTuTrongCau.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="XoaTuTrongCau.cpp" CONFIG_NAME="XoaTuTrongCau.cpp">
+      <option name="sourceFile" value="28Tech\Baitap\XauKyTu\XoaTuTrongCau.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -383,11 +386,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.01c2_XoaTuTrongCau.cpp" />
+        <item itemvalue="C/C++ File.XoaTuTrongCau.cpp" />
         <item itemvalue="C/C++ File.0_TachTuVoi_stringstream.cpp" />
         <item itemvalue="C/C++ File.DeQuy_RECURSION.cpp" />
         <item itemvalue="C/C++ File.test.cpp" />
-        <item itemvalue="C/C++ File.TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp (1)" />
-        <item itemvalue="C/C++ File.TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiation.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +501,8 @@
       <workItem from="1765937522214" duration="22120000" />
       <workItem from="1766050111126" duration="24679000" />
       <workItem from="1766108512183" duration="796000" />
-      <workItem from="1766154070675" duration="17341000" />
+      <workItem from="1766154070675" duration="18073000" />
+      <workItem from="1766235779666" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="10 ex">
       <option name="closed" value="true" />
@@ -860,14 +864,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766218171731</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="0_TachTuVoi_stringstream">
+      <option name="closed" value="true" />
+      <created>1766222655224</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1766222655224</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="33_DoiChoItNhat" />
     <MESSAGE value="34_DemCapX^YLonHonY^X" />
     <MESSAGE value="35_GiaoCuaBaDaySo" />
     <MESSAGE value="36_SapXepChanLe" />
@@ -892,7 +903,8 @@
     <MESSAGE value="ToHopChapKCuaN_BinomialCoefficient" />
     <MESSAGE value="TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio" />
     <MESSAGE value="DeQuy_RECURSION" />
-    <option name="LAST_COMMIT_MESSAGE" value="DeQuy_RECURSION" />
+    <MESSAGE value="0_TachTuVoi_stringstream" />
+    <option name="LAST_COMMIT_MESSAGE" value="0_TachTuVoi_stringstream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
