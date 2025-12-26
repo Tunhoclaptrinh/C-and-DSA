@@ -5,9 +5,9 @@ int main() {
 
   int n, q;
   cin >> n >> q;
-  int arr[n];
-  int prefixSum[n];
-  memset(prefixSum, 0, sizeof(prefixSum));
+
+  long long arr[n];
+  long long prefixSum[n];
 
   for (int i = 0; i < n; i++) {
     cin >> arr[i];
@@ -18,17 +18,15 @@ int main() {
     prefixSum[i] = prefixSum[i - 1] + arr[i];
   }
 
-  for (int i = 0; i < n; i++) {
-    cout << prefixSum[i] << " ";
-  }
   while (q--) {
     int l, r;
     cin >> l >> r;
 
-    int mx = INT_MIN;
+    long long mx = 0; // 🔥 SỬA 1: cho phép dãy con rỗng
+
     for (int i = l - 1; i < r; i++) {
-      for (int j = i + 1; j < r; j++) {
-        int sum = prefixSum[j] - (i >= 0 ? prefixSum[i] : 0);
+      for (int j = i; j < r; j++) {
+        long long sum = prefixSum[j] - (i > 0 ? prefixSum[i - 1] : 0);
         mx = max(mx, sum);
       }
     }

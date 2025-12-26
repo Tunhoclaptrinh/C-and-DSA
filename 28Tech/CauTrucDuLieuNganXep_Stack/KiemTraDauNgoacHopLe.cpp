@@ -1,0 +1,30 @@
+#include <bits/stdc++.h>
+#include <stack>
+using namespace std;
+
+int main() {
+  string s;
+  cin >> s;
+  stack<char> st;
+
+  for (int i = 0; i < s.size(); i++) {
+    if (s[i] == '(') {
+      st.push('(');
+    } else {
+      if (st.empty()) {
+        cout << "INVALID";
+        return 0;
+      } else {
+        st.pop();
+      }
+    }
+  }
+
+  if (st.empty()) {
+    cout << "VALID";
+  } else {
+    cout << "INVALID";
+  }
+
+  return 0;
+}

@@ -32,6 +32,7 @@ int main() {
     cout << fullName.back() << ", ";
     for (int i = 0; i < fullName.size() - 1; i++) {
       cout << fullName[i] << ' ';
+      // tùy theo test case có chấp nhận dấu  cách hay không
     }
 
     cout << endl;

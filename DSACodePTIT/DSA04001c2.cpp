@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+const long long MOD = 1e9 + 7;
+
+long long power(long long n, long long k) {
+  long long res = 1;
+  n %= MOD;
+  while (k > 0) {
+    if (k & 1)
+      res = (res * n) % MOD;
+    n = (n * n) % MOD;
+    k >>= 1;
+  }
+  return res;
+}
+
+int main() {
+  int t;
+  cin >> t;
+  while (t--) {
+    long long n, k;
+    cin >> n >> k;
+    cout << power(n, k) << endl;
+  }
+  return 0;
+}
