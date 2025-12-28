@@ -19,7 +19,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="refactor">
-      <change beforePath="$PROJECT_DIR$/Cpp-28Tech-YT/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/TinhSoFibonacciDuaTrenLuyThuaMaTran_FibonacciNumberWithMatrixExponentiatio/test.cpp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj01_Bai1_PrintHelloWorld.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj02_Bai2_PrintNumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj03_Bai3_PrintExpression.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj04_Bai4_HamPow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj04_Bai4_HamPow_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj05_Bai5_HamSqrtVaCbrt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj06_Bai6_HamCeilFloorRound.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj07_Bai7_ChuSoCuoiCungVa2ChuSoCuoiCung.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj08_Bai8_PhepChia.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj09_Bai9_XoaSo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj09_Bai9_XoaSo_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj10_Bai10_PhepChiaDu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj11_Bai11_NhanChia.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj12_Bai12_HamFxy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj13_Bai13_LonNhatNhoNhat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj14_Bai14_NumberInRange.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj14_Bai14_NumberInRange_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj15_Bai15_MuaVo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj16_Bai16_SuDungCout.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj17_Bai17_ChuViVaDienTichHCN.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj18_Bai18_HoanViGiaTri2So.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj19_Bai19_PhanThapPhan.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj20_Bai20_SuDungCout2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj22_Bai22_TongChuSoCuoiCung.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +63,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Tunhoclaptrinh/C-and-DSA.git",
-    "accountId": "1c9c9ff9-5d2d-46e1-8a44-9a132eb48497"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tunhoclaptrinh/C-and-DSA.git&quot;,
+    &quot;accountId&quot;: &quot;1c9c9ff9-5d2d-46e1-8a44-9a132eb48497&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -538,6 +563,21 @@
     "C/C++ File.mang1chieu.cpp.executor": "Run",
     "C/C++ File.mang2chieu.cpp.executor": "Run",
     "C/C++ File.multiset_unorderedset.cpp.executor": "Run",
+    "C/C++ File.oj03_Bai3_PrintExpression.cpp.executor": "Run",
+    "C/C++ File.oj05_Bai5_HamSqrtVaCbrt.cpp.executor": "Run",
+    "C/C++ File.oj06_Bai6_HamCeilFloorRound.cpp.executor": "Run",
+    "C/C++ File.oj07_Bai7_ChuSoCuoiCungVa2ChuSoCuoiCung.cpp.executor": "Run",
+    "C/C++ File.oj08_Bai8_PhepChia.cpp.executor": "Run",
+    "C/C++ File.oj09_Bai9_XoaSo.cpp.executor": "Run",
+    "C/C++ File.oj09_Bai9_XoaSo_c2.cpp.executor": "Run",
+    "C/C++ File.oj10_Bai10_PhepChiaDu.cpp.executor": "Run",
+    "C/C++ File.oj11_Bai11_NhanChia.cpp.executor": "Run",
+    "C/C++ File.oj12_Bai12_HamFxy.cpp.executor": "Run",
+    "C/C++ File.oj15_Bai15_MuaVo.cpp.executor": "Run",
+    "C/C++ File.oj19_Bai19_PhanThapPhan.cpp.executor": "Run",
+    "C/C++ File.oj1_Bai1_PrintHelloWorld.cpp.executor": "Debug",
+    "C/C++ File.oj20_Bai20_SuDungCout2.cpp.executor": "Run",
+    "C/C++ File.oj22_Bai22_TongChuSoCuoiCung.cpp.executor": "Run",
     "C/C++ File.operators.cpp.executor": "Run",
     "C/C++ File.prefixSum.cpp.executor": "Run",
     "C/C++ File.quick_sort.cpp.executor": "Run",
@@ -568,23 +608,23 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)",
+    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/DSA - 28tech/code/LamQuenOJ",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\study_material\C Plus Plus (C++)\DSA - 28tech\code\LamQuenOJ" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Baitap\ThuatToanSinhKeTiep" />
       <recent name="G:\study_material\C Plus Plus (C++)\DSACodePTIT" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\CauTrucDuLieuHangDoi_Queue" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\CauTrucDuLieuNganXep_Stack" />
-      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Bai29ThuatToanSinh" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\study_material\C Plus Plus (C++)\DSACodePTIT" />
@@ -594,25 +634,7 @@
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\PhepToanModulo" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.DSA01022c2.cpp">
-    <configuration name="09_PhanTichSo_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="09_PhanTichSo_2.cpp" CONFIG_NAME="09_PhanTichSo_2.cpp">
-      <option name="sourceFile" value="28Tech\Baitap\ThuatToanSinhKeTiep\09_PhanTichSo_2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DSA01004.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DSA01004.cpp" CONFIG_NAME="DSA01004.cpp">
-      <option name="sourceFile" value="DSACodePTIT\DSA01004.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DSA01022c2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="DSA01022c2.cpp" CONFIG_NAME="DSA01022c2.cpp">
-      <option name="sourceFile" value="DSACodePTIT\DSA01022c2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.oj22_Bai22_TongChuSoCuoiCung.cpp">
     <configuration name="Pair.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="Pair.cpp" CONFIG_NAME="Pair.cpp">
       <option name="sourceFile" value="28TechDSA\Buoi1\Pair.cpp" />
       <method v="2">
@@ -625,26 +647,44 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinhToHopChapKcuaN.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="SinhToHopChapKcuaN.cpp" CONFIG_NAME="SinhToHopChapKcuaN.cpp">
-      <option name="sourceFile" value="28Tech\Bai29ThuatToanSinh\SinhToHopChapKcuaN.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="binary_searchc1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="binary_searchc1.cpp" CONFIG_NAME="binary_searchc1.cpp">
       <option name="sourceFile" value="DSACodePTIT\binary_searchc1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bubble_sort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="bubble_sort.cpp" CONFIG_NAME="bubble_sort.cpp">
-      <option name="sourceFile" value="DSACodePTIT\bubble_sort.cpp" />
+    <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
+      <option name="sourceFile" value="hello_world.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello_world.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="hello_world.cpp" CONFIG_NAME="hello_world.cpp">
-      <option name="sourceFile" value="hello_world.cpp" />
+    <configuration name="oj12_Bai12_HamFxy.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj12_Bai12_HamFxy.cpp" CONFIG_NAME="oj12_Bai12_HamFxy.cpp">
+      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj12_Bai12_HamFxy.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oj15_Bai15_MuaVo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj15_Bai15_MuaVo.cpp" CONFIG_NAME="oj15_Bai15_MuaVo.cpp">
+      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj15_Bai15_MuaVo.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oj19_Bai19_PhanThapPhan.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj19_Bai19_PhanThapPhan.cpp" CONFIG_NAME="oj19_Bai19_PhanThapPhan.cpp">
+      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj19_Bai19_PhanThapPhan.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oj20_Bai20_SuDungCout2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj20_Bai20_SuDungCout2.cpp" CONFIG_NAME="oj20_Bai20_SuDungCout2.cpp">
+      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj20_Bai20_SuDungCout2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oj22_Bai22_TongChuSoCuoiCung.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj22_Bai22_TongChuSoCuoiCung.cpp" CONFIG_NAME="oj22_Bai22_TongChuSoCuoiCung.cpp">
+      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj22_Bai22_TongChuSoCuoiCung.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -657,11 +697,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.DSA01022c2.cpp" />
-        <item itemvalue="C/C++ File.DSA01004.cpp" />
-        <item itemvalue="C/C++ File.bubble_sort.cpp" />
-        <item itemvalue="C/C++ File.SinhToHopChapKcuaN.cpp" />
-        <item itemvalue="C/C++ File.09_PhanTichSo_2.cpp" />
+        <item itemvalue="C/C++ File.oj22_Bai22_TongChuSoCuoiCung.cpp" />
+        <item itemvalue="C/C++ File.oj20_Bai20_SuDungCout2.cpp" />
+        <item itemvalue="C/C++ File.oj19_Bai19_PhanThapPhan.cpp" />
+        <item itemvalue="C/C++ File.oj15_Bai15_MuaVo.cpp" />
+        <item itemvalue="C/C++ File.oj12_Bai12_HamFxy.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -789,23 +829,11 @@
       <workItem from="1766812796935" duration="43000" />
       <workItem from="1766850809644" duration="890000" />
       <workItem from="1766855211664" duration="23000" />
-      <workItem from="1766911741830" duration="724000" />
-    </task>
-    <task id="LOCAL-00007" summary="20_CasiLeRo">
-      <option name="closed" value="true" />
-      <created>1765699428623</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1765699428623</updated>
-    </task>
-    <task id="LOCAL-00008" summary="21_InTheoKhuonMau">
-      <option name="closed" value="true" />
-      <created>1765703793591</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1765703793591</updated>
+      <workItem from="1766911741830" duration="3050000" />
+      <workItem from="1766914827357" duration="66000" />
+      <workItem from="1766914904907" duration="105000" />
+      <workItem from="1766915019133" duration="1597000" />
+      <workItem from="1766934190853" duration="7789000" />
     </task>
     <task id="LOCAL-00009" summary="22_CountinSort">
       <option name="closed" value="true" />
@@ -1183,7 +1211,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766912350823</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1766912510706</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1766912510706</updated>
+    </task>
+    <task id="LOCAL-00057" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1766912519206</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1766912519206</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
