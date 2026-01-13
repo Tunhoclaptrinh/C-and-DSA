@@ -18,32 +18,59 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="refactor">
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj01_Bai1_PrintHelloWorld.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj02_Bai2_PrintNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj03_Bai3_PrintExpression.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj04_Bai4_HamPow.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj04_Bai4_HamPow_c2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj05_Bai5_HamSqrtVaCbrt.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj06_Bai6_HamCeilFloorRound.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj07_Bai7_ChuSoCuoiCungVa2ChuSoCuoiCung.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj08_Bai8_PhepChia.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj09_Bai9_XoaSo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj09_Bai9_XoaSo_c2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj10_Bai10_PhepChiaDu.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj11_Bai11_NhanChia.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj12_Bai12_HamFxy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj13_Bai13_LonNhatNhoNhat.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj14_Bai14_NumberInRange.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj14_Bai14_NumberInRange_c2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj15_Bai15_MuaVo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj16_Bai16_SuDungCout.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj17_Bai17_ChuViVaDienTichHCN.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj18_Bai18_HoanViGiaTri2So.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj19_Bai19_PhanThapPhan.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj20_Bai20_SuDungCout2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/LamQuenOJ/oj22_Bai22_TongChuSoCuoiCung.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+    <list default="true" id="a9575e92-57c6-43e9-b4a1-d7b0cef26f42" name="Changes" comment="Lam quen voi Online Judge">
+      <change afterPath="$PROJECT_DIR$/Cpp-28Tech-YT/Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình/SoNguyenTo/Sangnt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap01.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap01_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap01_c3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap02.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap02_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap02_c3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap03.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap04.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap04_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap05.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap06.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap07.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/SetMap/setmap07_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector01.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector02.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector03.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector04.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector05.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector06.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector07.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector08.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector08_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector09.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector09_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector13.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector14.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector15.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector15_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector16.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector17.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector19.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/Lesson/Vector/vector20.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic01_Bai1_ChanLe.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic02_Bai2_TrungBinhCongNguyenTo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic03_Bai3_SoNhoNhat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic04_Bai4_LonHonNhoHon.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic05_Bai5_InPhanTu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic06_Bai6_DemCapSo1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic06_Bai6_DemCapSo1_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic07_Bai7_DemCapSo2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic08_Bai8_LietKeCacGiaTriKhacNhau.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic08_Bai8_LietKeCacGiaTriKhacNhau_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic09_Bai9_TanSuat.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic09_Bai9_TanSuat_c2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic10_Bai10_CanBangNguyenTo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic10_Bai10_CanBangNguyenTo_RE.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Mang1ChieuCoBan/array_basic10_Bai10_CanBangNguyenTo_c3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA - 28tech/code/Other/aplusb.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -536,6 +563,17 @@
     "C/C++ File.WhileLoop.cpp.executor": "Run",
     "C/C++ File.XauKyTu.cpp.executor": "Run",
     "C/C++ File.XoaTuTrongCau.cpp.executor": "Run",
+    "C/C++ File.array_basic01_Bai1_ChanLe.cpp.executor": "Run",
+    "C/C++ File.array_basic02_Bai2_TrungBinhCongNguyenTo.cpp.executor": "Run",
+    "C/C++ File.array_basic03_Bai3_SoNhoNhat.cpp.executor": "Run",
+    "C/C++ File.array_basic06_Bai6_DemCapSo1.cpp.executor": "Run",
+    "C/C++ File.array_basic06_Bai6_DemCapSo1_c2.cpp.executor": "Run",
+    "C/C++ File.array_basic07_Bai7_DemCapSo2.cpp.executor": "Run",
+    "C/C++ File.array_basic08_Bai8_LietKeCacGiaTriKhacNhau.cpp.executor": "Run",
+    "C/C++ File.array_basic08_Bai8_LietKeCacGiaTriKhacNhau_c2.cpp.executor": "Run",
+    "C/C++ File.array_basic09_Bai9_TanSuat.cpp.executor": "Run",
+    "C/C++ File.array_basic09_Bai9_TanSuat_c2.cpp.executor": "Run",
+    "C/C++ File.array_basic10_Bai10_CanBangNguyenTo.cpp.executor": "Run",
     "C/C++ File.bieuthuctoanhoc.cpp.executor": "Run",
     "C/C++ File.binary_searchc1.cpp.executor": "Run",
     "C/C++ File.break.cpp.executor": "Run",
@@ -582,6 +620,17 @@
     "C/C++ File.prefixSum.cpp.executor": "Run",
     "C/C++ File.quick_sort.cpp.executor": "Run",
     "C/C++ File.relational_operators.cpp.executor": "Run",
+    "C/C++ File.setmap01.cpp.executor": "Run",
+    "C/C++ File.setmap01_c2.cpp.executor": "Run",
+    "C/C++ File.setmap01_c3.cpp.executor": "Run",
+    "C/C++ File.setmap02.cpp.executor": "Run",
+    "C/C++ File.setmap02_c2.cpp.executor": "Run",
+    "C/C++ File.setmap02_c3.cpp.executor": "Run",
+    "C/C++ File.setmap03.cpp.executor": "Run",
+    "C/C++ File.setmap04.cpp.executor": "Run",
+    "C/C++ File.setmap04_c2.cpp.executor": "Run",
+    "C/C++ File.setmap05.cpp.executor": "Run",
+    "C/C++ File.setmap7.cpp.executor": "Run",
     "C/C++ File.sokhoilapphuong.cpp.executor": "Run",
     "C/C++ File.stringMethod.cpp.executor": "Run",
     "C/C++ File.tessttttt.cpp.executor": "Run",
@@ -592,6 +641,27 @@
     "C/C++ File.trochoivoicacconso.cpp.executor": "Run",
     "C/C++ File.unorderedset.cpp.executor": "Run",
     "C/C++ File.var_input_output.cpp.executor": "Run",
+    "C/C++ File.vector01.cpp.executor": "Run",
+    "C/C++ File.vector02.cpp.executor": "Run",
+    "C/C++ File.vector03.cpp.executor": "Run",
+    "C/C++ File.vector04.cpp.executor": "Run",
+    "C/C++ File.vector05.cpp.executor": "Run",
+    "C/C++ File.vector06.cpp.executor": "Run",
+    "C/C++ File.vector07.cpp.executor": "Run",
+    "C/C++ File.vector08.cpp.executor": "Run",
+    "C/C++ File.vector08_c2.cpp.executor": "Run",
+    "C/C++ File.vector09.cpp.executor": "Run",
+    "C/C++ File.vector09_c2.cpp.executor": "Run",
+    "C/C++ File.vector10.cpp.executor": "Run",
+    "C/C++ File.vector11.cpp.executor": "Run",
+    "C/C++ File.vector12.cpp.executor": "Run",
+    "C/C++ File.vector14.cpp.executor": "Run",
+    "C/C++ File.vector15.cpp.executor": "Run",
+    "C/C++ File.vector15_c2.cpp.executor": "Run",
+    "C/C++ File.vector16.cpp.executor": "Run",
+    "C/C++ File.vector17.cpp.executor": "Run",
+    "C/C++ File.vector19.cpp.executor": "Run",
+    "C/C++ File.vector20.cpp.executor": "Run",
     "C/C++ File.whileloop.cpp.executor": "Run",
     "C/C++ File.xoanoc.cpp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -608,7 +678,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/DSA - 28tech/code/LamQuenOJ",
+    "last_opened_file_path": "G:/study_material/C Plus Plus (C++)/DSA - 28tech/Lesson/SetMap",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -620,11 +690,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\study_material\C Plus Plus (C++)\DSA - 28tech\Lesson\SetMap" />
+      <recent name="G:\study_material\C Plus Plus (C++)\DSA - 28tech\Lesson\Vector" />
+      <recent name="G:\study_material\C Plus Plus (C++)\DSA - 28tech\code\Mang1ChieuCoBan" />
       <recent name="G:\study_material\C Plus Plus (C++)\DSA - 28tech\code\LamQuenOJ" />
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Baitap\ThuatToanSinhKeTiep" />
-      <recent name="G:\study_material\C Plus Plus (C++)\DSACodePTIT" />
-      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\CauTrucDuLieuHangDoi_Queue" />
-      <recent name="G:\study_material\C Plus Plus (C++)\28Tech\CauTrucDuLieuNganXep_Stack" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\study_material\C Plus Plus (C++)\DSACodePTIT" />
@@ -634,7 +704,7 @@
       <recent name="G:\study_material\C Plus Plus (C++)\28Tech\Kiến Thức Toán Và Lý Thuyết Số Quan Trọng Trong Lập Trình\PhepToanModulo" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.oj22_Bai22_TongChuSoCuoiCung.cpp">
+  <component name="RunManager" selected="C/C++ File.setmap7.cpp">
     <configuration name="Pair.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="Pair.cpp" CONFIG_NAME="Pair.cpp">
       <option name="sourceFile" value="28TechDSA\Buoi1\Pair.cpp" />
       <method v="2">
@@ -659,32 +729,32 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oj12_Bai12_HamFxy.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj12_Bai12_HamFxy.cpp" CONFIG_NAME="oj12_Bai12_HamFxy.cpp">
-      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj12_Bai12_HamFxy.cpp" />
+    <configuration name="setmap03.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="setmap03.cpp" CONFIG_NAME="setmap03.cpp">
+      <option name="sourceFile" value="DSA - 28tech\Lesson\SetMap\setmap03.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oj15_Bai15_MuaVo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj15_Bai15_MuaVo.cpp" CONFIG_NAME="oj15_Bai15_MuaVo.cpp">
-      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj15_Bai15_MuaVo.cpp" />
+    <configuration name="setmap04_c2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="setmap04_c2.cpp" CONFIG_NAME="setmap04_c2.cpp">
+      <option name="sourceFile" value="DSA - 28tech\Lesson\SetMap\setmap04_c2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oj19_Bai19_PhanThapPhan.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj19_Bai19_PhanThapPhan.cpp" CONFIG_NAME="oj19_Bai19_PhanThapPhan.cpp">
-      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj19_Bai19_PhanThapPhan.cpp" />
+    <configuration name="setmap04.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="setmap04.cpp" CONFIG_NAME="setmap04.cpp">
+      <option name="sourceFile" value="DSA - 28tech\Lesson\SetMap\setmap04.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oj20_Bai20_SuDungCout2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj20_Bai20_SuDungCout2.cpp" CONFIG_NAME="oj20_Bai20_SuDungCout2.cpp">
-      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj20_Bai20_SuDungCout2.cpp" />
+    <configuration name="setmap05.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="setmap05.cpp" CONFIG_NAME="setmap05.cpp">
+      <option name="sourceFile" value="DSA - 28tech\Lesson\SetMap\setmap05.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oj22_Bai22_TongChuSoCuoiCung.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="oj22_Bai22_TongChuSoCuoiCung.cpp" CONFIG_NAME="oj22_Bai22_TongChuSoCuoiCung.cpp">
-      <option name="sourceFile" value="DSA - 28tech\code\LamQuenOJ\oj22_Bai22_TongChuSoCuoiCung.cpp" />
+    <configuration name="setmap7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Plus Plus (C++)" TARGET_NAME="setmap7.cpp" CONFIG_NAME="setmap7.cpp">
+      <option name="sourceFile" value="DSA - 28tech\Lesson\SetMap\setmap7.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -697,11 +767,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.oj22_Bai22_TongChuSoCuoiCung.cpp" />
-        <item itemvalue="C/C++ File.oj20_Bai20_SuDungCout2.cpp" />
-        <item itemvalue="C/C++ File.oj19_Bai19_PhanThapPhan.cpp" />
-        <item itemvalue="C/C++ File.oj15_Bai15_MuaVo.cpp" />
-        <item itemvalue="C/C++ File.oj12_Bai12_HamFxy.cpp" />
+        <item itemvalue="C/C++ File.setmap7.cpp" />
+        <item itemvalue="C/C++ File.setmap05.cpp" />
+        <item itemvalue="C/C++ File.setmap04_c2.cpp" />
+        <item itemvalue="C/C++ File.setmap04.cpp" />
+        <item itemvalue="C/C++ File.setmap03.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -833,15 +903,18 @@
       <workItem from="1766914827357" duration="66000" />
       <workItem from="1766914904907" duration="105000" />
       <workItem from="1766915019133" duration="1597000" />
-      <workItem from="1766934190853" duration="7789000" />
-    </task>
-    <task id="LOCAL-00009" summary="22_CountinSort">
-      <option name="closed" value="true" />
-      <created>1765705812364</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1765705812364</updated>
+      <workItem from="1766934190853" duration="8097000" />
+      <workItem from="1766986594545" duration="5000" />
+      <workItem from="1767028792554" duration="6792000" />
+      <workItem from="1767108303334" duration="1784000" />
+      <workItem from="1767619963971" duration="9107000" />
+      <workItem from="1768053438215" duration="4357000" />
+      <workItem from="1768115932633" duration="14575000" />
+      <workItem from="1768131698157" duration="1148000" />
+      <workItem from="1768139583444" duration="10847000" />
+      <workItem from="1768201633089" duration="11539000" />
+      <workItem from="1768236140275" duration="3616000" />
+      <workItem from="1768263114673" duration="3339000" />
     </task>
     <task id="LOCAL-00010" summary="23_CapSoTongBangK">
       <option name="closed" value="true" />
@@ -1227,7 +1300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766912519206</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Lam quen voi Online Judge">
+      <option name="closed" value="true" />
+      <created>1766942109924</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1766942109924</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1245,7 +1326,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SoNguyenTo" />
     <MESSAGE value="PhanTichThuaSoNguyenTo" />
     <MESSAGE value="SangSoNguyenToTrenDoan" />
     <MESSAGE value="DemUoc" />
@@ -1270,7 +1350,8 @@
     <MESSAGE value="04_ChuanHoaTen2" />
     <MESSAGE value="Push all" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="Lam quen voi Online Judge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lam quen voi Online Judge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
